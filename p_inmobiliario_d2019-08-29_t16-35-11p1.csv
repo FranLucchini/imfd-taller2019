@@ -1,0 +1,737 @@
+Codigo,Direccion,Latitud,Longitud,Piezas,Precio Min (UF),Precio Max (UF),Tamaño Min,Tamaño Max,Pago,Tipo de Vivienda
+7525,"Almirante Blanco Encalada 2521, Santiago",-33.45755,-70.66876,n/a,2275,3717,29.5,57.9,venta,departamento
+8453,"Av. Brasil 601, Santiago",-33.43743,-70.66429,n/a,2784,2847,36.88,37.81,venta,departamento
+6675,"Monumento 2158, Maipú",-33.50769,-70.75911,n/a,3367,3823,60.83,65.18,venta,departamento
+8377,"Central Pérez Llona 140, Maipú",-33.50017,-70.75587,n/a,3488,6576,59.83,100.33,venta,departamento
+8528,"Calle Rinconada El Salto 291, Huechuraba",-33.38194,-70.6188,n/a,2697,7504,44.15,105.14,venta,departamento
+7428,"San Nicolás 1141, San Miguel",-33.49898,-70.65469,n/a,3268,4130,66.51,98.66,venta,departamento
+8212,"San Ignacio de Loyola 691, Santiago",-33.45432,-70.65584,n/a,2410,3501,28.85,48.7,venta,departamento
+8902,"Pedro de Oña 55, Ñuñoa",-33.45378,-70.62936,n/a,3587,6674,38.04,78.11,venta,departamento
+8475,"Av. Ecuador 4707, Estación Central",-33.45326,-70.6994,n/a,2059,2880,24.76,45.39,venta,departamento
+7841,"Avenida Macul 2301, Macul",-33.47582,-70.59906,n/a,2750,0,51.02,100.71,venta,departamento
+7831,"Dublé Almeyda 2980, Ñuñoa",-33.45616,-70.60003,n/a,3689,6647,42.05,84.23,venta,departamento
+8273,"Lorenzo de Médicis 21, Las Condes",-33.40152,-70.55444,n/a,3965,7754,39.66,78.89,venta,departamento
+8452,"San Eugenio 600, Ñuñoa",-33.45776,-70.62657,n/a,3354,7259,37.11,85.42,venta,departamento
+8514,"Carmen 590, Santiago",-33.45088,-70.6412,n/a,2677,3791,33.68,53.42,venta,departamento
+8204,"Av. Rosas 1220, Santiago",-33.43553,-70.65467,n/a,2863,5120,35.04,63.71,venta,departamento
+8479,"Los Olmos 3031, Macul",-33.47942,-70.60106,n/a,3279,5002,51.72,83.95,venta,departamento
+8570,"Av. Colombia 7738, La Florida",-33.52394,-70.5892,n/a,1990,4527,39.61,71.61,venta,departamento
+8836,"Salesianos 815, San Miguel",-33.4939,-70.64619,n/a,3910,6070,80.15,236.89,venta,departamento
+7768,"Avenida Vespucio 4451, Macul",-33.49708,-70.58556,n/a,1882,3759,29.15,72.15,venta,departamento
+6325,"Camino El Roble 1550, Huechuraba",-33.34946,-70.67561,n/a,3778,4538,66.81,86.65,venta,departamento
+8021,"Santa Cristina 3138, Macul",-33.48742,-70.60106,n/a,2600,4532,38.98,79.18,venta,departamento
+7360,"Plaza Egaña 100, Ñuñoa",-33.45249,-70.57168,n/a,3324,7354,41.72,81.34,venta,departamento
+8286,"Bretaña 1993, Ñuñoa",-33.44708,-70.61234,n/a,3745,9000,40.13,104.33,venta,departamento
+6876,"San Nicolás 1171, San Miguel",-33.49886,-70.65535,n/a,2841,3573,50.62,63.76,venta,departamento
+8080,"Walker Martínez 1620, La Florida",-33.52232,-70.58044,n/a,2867,4984,49.55,85.3,venta,departamento
+8474,"Los Aliaga 5500, Ñuñoa",-33.45761,-70.57542,n/a,3572,6686,40.03,89.47,venta,departamento
+8913,"Andalién 7320, La Florida",-33.52045,-70.55921,n/a,3250,4632,71.32,88.58,venta,departamento
+8868,"Walker Martínez 911, La Florida",-33.52278,-70.58731,n/a,2493,4948,37.93,88.99,venta,departamento
+8455,"Santa Elena 1346, Santiago",-33.46013,-70.62997,n/a,2887,5112,34.98,67.13,venta,departamento
+7705,"General Jofré 220, Santiago",-33.44493,-70.6357,n/a,2218,3454,29.36,53.76,venta,departamento
+8830,"Av. La Florida 10671, La Florida",-33.55519,-70.56202,n/a,2372,4897,37.78,93.04,venta,departamento
+8268,"San Luis de Macul 4355, Peñalolén",-33.5057,-70.5874,n/a,2785,3439,55.83,67.37,venta,departamento
+8144,"Arturo Prat 1942, Santiago",-33.47169,-70.64647,n/a,2262,3042,35.61,56.14,venta,departamento
+7646,"Zañartu 2418, Ñuñoa",-33.47245,-70.60771,n/a,3315,4976,54.25,76.25,venta,departamento
+5965,"Av. María Rozas Velásquez 51 (ex Las Rejas Norte), Estación Central",-33.45525,-70.7054,n/a,2153,2661,32.74,52.89,venta,departamento
+6342,"Conde Del Maule 4325, Estación Central",-33.45356,-70.69562,n/a,1910,3173,33.07,33.07,venta,departamento
+7716,"Las Acacias 7700, La Florida",-33.52503,-70.59956,n/a,2300,0,41.59,60.51,venta,departamento
+5918,"Emilio Vaisse 760, Ñuñoa",-33.45112,-70.62605,n/a,3376,0,41.7,66.35,venta,departamento
+7989,"Nataniel Cox 655, Santiago",-33.45402,-70.65267,n/a,2578,4083,33.56,62,venta,departamento
+8705,"Av. La Florida 8220, La Florida",-33.52764,-70.5756,n/a,3007,4580,59.23,80.06,venta,departamento
+7660,"Compañía de Jesús 1656, Santiago",-33.4397,-70.66025,n/a,2134,3648,25.1,35.93,venta,departamento
+8452,"San Eugenio 600, Ñuñoa",-33.45776,-70.62657,n/a,3354,7259,37.11,85.42,venta,departamento
+7051,"Morandé 857, Santiago",-33.43349,-70.65457,n/a,2763,3259,37.1,53.02,venta,departamento
+3897,"Sergio Vieira de Mello 6400 (ex Aguada), Macul",-33.49489,-70.60764,n/a,2325,4025,35.21,83.69,venta,departamento
+7821,"Macul 3474, Macul",-33.48608,-70.59922,n/a,3255,6228,39.38,84.64,venta,departamento
+7289,"Segunda Avenida 1230, San Miguel",-33.50489,-70.65755,n/a,2319,3625,40.9,75.08,venta,departamento
+7768,"Avenida Vespucio 4451, Macul",-33.49708,-70.58556,n/a,1882,3759,29.15,72.15,venta,departamento
+7257,"Av. Ecuador 5079, Estación Central",-33.45502,-70.70377,n/a,2708,3100,51.14,69.27,venta,departamento
+6519,"Av. General Bustamante 730, Ñuñoa",-33.45114,-70.62914,n/a,3632,5258,40.61,61.5,venta,departamento
+8833,"Ricardo Cumming 902, Santiago",-33.43395,-70.6692,n/a,1845,3398,24.75,57.01,venta,departamento
+8595,"Lazo 1365, San Miguel",-33.49864,-70.65986,n/a,2300,2900,38.82,60.75,venta,departamento
+8194,"Nuncio Laghi 5600, Ñuñoa",-33.45668,-70.57316,n/a,3584,5923,38.81,81.21,venta,departamento
+8224,"Alcalde Eduardo Castillo Velasco 1662, Ñuñoa",-33.45731,-70.6148,n/a,3990,6292,76.99,116,venta,departamento
+8254,"Varas Mena 865, San Miguel",-33.51,-70.65063,n/a,2137,0,40.7,74,venta,departamento
+8696,"Teresa Vial 1446, San Miguel",-33.49213,-70.65898,n/a,2318,3024,33.54,51.86,venta,departamento
+8939,"Titán 4876, Estación Central",-33.45876,-70.70318,n/a,2084,2884,43.23,58.73,venta,departamento
+8713,"Rodrigo de Araya 1410, Ñuñoa",-33.47464,-70.61778,n/a,2490,4590,38.84,71.91,venta,departamento
+7191,"Federico Scotto 0112, Estación Central",-33.45175,-70.68905,n/a,2182,2686,33.35,43.61,venta,departamento
+7627,"Gerónimo de Alderete 1844, La Florida",-33.52826,-70.57485,n/a,3348,4476,70.45,88.43,venta,departamento
+8646,"Exequiel Fernández 419, Ñuñoa",-33.45856,-70.59995,n/a,3959,11479,42.62,211.7,venta,departamento
+7783,"Zañartu 1.100, Ñuñoa",-33.47318,-70.6211,n/a,3299,3342,41.73,43.14,venta,departamento
+7996,"Avenida Irarrázaval 3360, Ñuñoa",-33.45505,-70.59589,n/a,2329,6399,27.07,81.31,venta,departamento
+8749,"Arcángel 1218, San Miguel",-33.48841,-70.65354,n/a,2556,0,36.73,91.27,venta,departamento
+7335,"Alcalde Pedro Alarcón 851, San Miguel",-33.48702,-70.64531,n/a,2470,3642,49.64,72.86,venta,departamento
+6983,"Alcalde Pedro Alarcón 805, San Miguel",-33.48737,-70.64403,n/a,2105,2781,33.67,52.75,venta,departamento
+7031,"Ecuador 4570, Estación Central",-33.4535,-70.69904,n/a,2140,3400,39.19,70.29,venta,departamento
+6778,"Avenida Vicuña Mackenna 7735, La Florida",-33.52531,-70.59784,n/a,2563,0,40.02,72.78,venta,departamento
+8501,"Miguel León Prado 55, Santiago",-33.46189,-70.62871,n/a,2510,4200,29.33,84.29,venta,departamento
+8273,"Lorenzo de Médicis 21, Las Condes",-33.40152,-70.55444,n/a,3965,7754,39.66,78.89,venta,departamento
+7770,"Abate Molina 186, Santiago",-33.45199,-70.67246,n/a,2300,3260,37.81,57.54,venta,departamento
+8192,"Manuel Rodríguez 39, Santiago",-33.44454,-70.66012,n/a,2850,4139,34.58,68.98,venta,departamento
+7717,"Dresden 4669, San Miguel",-33.49783,-70.6483,n/a,2855,4314,50.78,97.43,venta,departamento
+7366,"Gamero 1553, Independencia",-33.42091,-70.65866,n/a,2799,0,47.75,47.75,venta,departamento
+7168,"Av. Irarrázaval 5489, Ñuñoa",-33.45354,-70.57352,n/a,2604,4965,28.75,66.08,venta,departamento
+7419,"Ramón Subercaseaux 1265, San Miguel",-33.48491,-70.65154,n/a,2963,0,40.6,93.3,venta,departamento
+5087,"Calle Santiago 1320, Santiago",-33.46255,-70.65128,n/a,3009,3049,65.87,65.87,venta,departamento
+7360,"Plaza Egaña 100, Ñuñoa",-33.45249,-70.57168,n/a,3324,7354,41.72,81.34,venta,departamento
+8808,"Santa Clara 349, La Cisterna",-33.52045,-70.6556,n/a,1993,3359,35.26,64.85,venta,departamento
+8322,"Av. Fernández Albano 429, La Cisterna",-33.52515,-70.65354,n/a,1954,3031,31.58,65.86,venta,departamento
+6222,"Walker Martínez 1600, La Florida",-33.52256,-70.58062,n/a,2240,3584,49,68.2,venta,departamento
+8836,"Salesianos 815, San Miguel",-33.4939,-70.64619,n/a,3910,6070,80.15,236.89,venta,departamento
+7688,"Avenida Irarrázaval 2731, Ñuñoa",-33.45451,-70.60263,n/a,3442,6424,36.46,89.22,venta,departamento
+6221,"Av. Vicuña Mackenna 6800, La Florida",-33.51752,-70.6049,n/a,2617,3308,45.37,74.58,venta,departamento
+6347,"Irarrázaval 200, Ñuñoa",-33.45237,-70.62878,n/a,2538,4315,29,58,venta,departamento
+6838,"Alonso de Ercilla 8689, La Florida",-33.53226,-70.58425,n/a,2290,3090,45.41,67.34,venta,departamento
+7801,"Av. Pajaritos 4650, Maipú",-33.47937,-70.74389,n/a,3113,4527,60.91,80.3,venta,departamento
+8902,"Pedro de Oña 55, Ñuñoa",-33.45378,-70.62936,n/a,3587,6674,38.04,78.11,venta,departamento
+8377,"Central Pérez Llona 140, Maipú",-33.50017,-70.75587,n/a,3488,6576,59.83,100.33,venta,departamento
+8086,"Alonso de Ercilla 3100, Ñuñoa",-33.45193,-70.59725,n/a,3850,8146,45.6,107.31,venta,departamento
+8979,"Vicuña Mackenna 3897, San Joaquín",-33.48928,-70.61829,n/a,2735,5292,39.45,80.19,venta,departamento
+8514,"Carmen 590, Santiago",-33.45088,-70.6412,n/a,2677,3791,33.68,53.42,venta,departamento
+8954,"Av. José Pedro Alessandri 433, Ñuñoa",-33.45897,-70.59824,n/a,3460,5410,37.8,67.2,venta,departamento
+6062,"Av. Américo Vespucio 4641, Macul",-33.49923,-70.58698,n/a,2260,4761,34.79,103.22,venta,departamento
+8295,"Av. El Parrón 0113, La Cisterna",-33.52669,-70.6601,n/a,2121,0,31.25,43.14,venta,departamento
+7030,"Sexta Avenida 1192, San Miguel",-33.50883,-70.65904,n/a,2233,3192,37.22,59.47,venta,departamento
+8223,"Orompello 7255, La Florida",-33.51877,-70.56493,n/a,2611,5508,41.68,89.36,venta,departamento
+6780,"Guardia Marina Riquelme 4880, San Miguel",-33.49655,-70.65734,n/a,2744,3288,52.28,64.76,venta,departamento
+8846,"San Pablo 4629, Quinta Normal",-33.43899,-70.69834,n/a,2129,3084,36.07,57.38,venta,departamento
+8820,"San Pablo 1441, Santiago",-33.43445,-70.65803,n/a,2255,3278,21.91,52.55,venta,departamento
+8239,"Transversal Suárez Mujica 2877, Ñuñoa",-33.4608,-70.6019,n/a,3093,5018,35.4,71.96,venta,departamento
+7756,"Av. José Artigas 2896, Ñuñoa",-33.44521,-70.59898,n/a,3570,11170,46.94,137.75,venta,departamento
+9006,"Domingo Santa María 1846, Independencia",-33.41566,-70.66525,n/a,2284,4526,33.95,77.67,venta,departamento
+7831,"Dublé Almeyda 2980, Ñuñoa",-33.45616,-70.60003,n/a,3689,6647,42.05,84.23,venta,departamento
+8528,"Calle Rinconada El Salto 291, Huechuraba",-33.38194,-70.6188,n/a,2697,7504,44.15,105.14,venta,departamento
+7418,"Rojas Magallanes 2085, La Florida",-33.53568,-70.57023,n/a,3890,3900,69.98,70.02,venta,departamento
+8387,"Arturo Prat 631, Santiago",-33.45298,-70.64861,n/a,2538,0,32.99,32.99,venta,departamento
+7401,"Lazo 1456, San Miguel",-33.49804,-70.6619,n/a,2797,3570,55.9,71.7,venta,departamento
+6535,"Av. Club Hípico 1604, Santiago",-33.46858,-70.66484,n/a,2845,3262,52.14,57.15,venta,departamento
+8947,"Goycolea 824, La Cisterna",-33.54179,-70.65621,n/a,1583,3309,23.24,70.27,venta,departamento
+7629,"Flor del Notro 163, Maipú",-33.47876,-70.75922,n/a,2940,3790,57.36,73.48,venta,departamento
+6800,"Av. Vicuña Mackenna 662, Ñuñoa",-33.45038,-70.63113,n/a,2301,4470,27.63,66.58,venta,departamento
+8165,"Walker Martínez 1100, La Florida",-33.52258,-70.58631,n/a,2125,4080,41.77,84.02,venta,departamento
+8085,"Sexta Avenida 1340, San Miguel",-33.50814,-70.66151,n/a,2438,3376,36.21,65.78,venta,departamento
+6952,"José Miguel Carrera 680, Santiago",-33.45584,-70.66252,n/a,2825,0,38.58,50.93,venta,departamento
+8303,"Las Madreselvas 4519, Macul",-33.48518,-70.58612,n/a,2702,4080,56.87,95.93,venta,departamento
+6003,"Carlos Valdovinos esquina Gran Avenida, San Miguel",-33.48002,-70.64799,n/a,3350,0,70.88,70.88,venta,departamento
+8929,"Armando Moock 3777, Macul",-33.48973,-70.59803,n/a,3305,4544,54.84,84.04,venta,departamento
+7702,"Holanda 3857, Ñuñoa",-33.45431,-70.59648,n/a,3301,4594,40.43,52.86,venta,departamento
+7322,"Av. Presidente Balmaceda 2.610, Santiago",-33.42775,-70.67363,n/a,1480,3920,24.82,84.45,venta,departamento
+8579,"Pedro de Valdivia 2793, esq Sucre, Ñuñoa",-33.44864,-70.60574,n/a,3190,12190,33.6,165.76,venta,departamento
+7493,"Dieciocho 747, Santiago",-33.45572,-70.65634,n/a,2830,3446,40.66,60.6,venta,departamento
+8733,"Vicuña Mackenna 1194, Ñuñoa",-33.45653,-70.6292,n/a,2490,4600,37.89,71.56,venta,departamento
+8984,"Libertad 51, Santiago",-33.44645,-70.67331,n/a,2298,4370,26.53,67.16,venta,departamento
+8274,"Portugal 520, Santiago",-33.44859,-70.63505,n/a,2696,4450,38.12,68.49,venta,departamento
+6554,"Serrano 627, Santiago",-33.45271,-70.64776,n/a,2913,0,48.1,65.8,venta,departamento
+8212,"San Ignacio de Loyola 691, Santiago",-33.45432,-70.65584,n/a,2410,3501,28.85,48.7,venta,departamento
+7635,"Av. Vicuña Mackenna 4192, Macul",-33.49275,-70.61714,n/a,2374,0,33,66,venta,departamento
+8369,"Manuel Montt 2406, Ñuñoa",-33.44979,-70.61302,n/a,3237,6882,39.05,81.77,venta,departamento
+8475,"Av. Ecuador 4707, Estación Central",-33.45326,-70.6994,n/a,2059,2880,24.76,45.39,venta,departamento
+8204,"Av. Rosas 1220, Santiago",-33.43553,-70.65467,n/a,2863,5120,35.04,63.71,venta,departamento
+6876,"San Nicolás 1171, San Miguel",-33.49886,-70.65535,n/a,2841,3573,50.62,63.76,venta,departamento
+6359,"Conde del Maule 4470, Estación Central",-33.45401,-70.69709,n/a,2589,2631,48.1,48.4,venta,departamento
+7261,"General Las Heras 1650, Santiago",-33.45334,-70.658,n/a,2740,3251,38.23,55.4,venta,departamento
+7243,"Av. Walker Martínez 3142, La Florida",-33.52222,-70.56457,n/a,3757,5289,74.02,121.09,venta,departamento
+8453,"Av. Brasil 601, Santiago",-33.43743,-70.66429,n/a,2784,2847,36.88,37.81,venta,departamento
+8826,"Séptima Avenida 1355, San Miguel",-33.5135,-70.66277,n/a,2310,3826,38.44,78.61,venta,departamento
+7916,"García Hurtado de Mendoza 8227, La Florida",-33.52861,-70.58285,n/a,2950,3770,54.62,65.91,venta,departamento
+7525,"Almirante Blanco Encalada 2521, Santiago",-33.45755,-70.66876,n/a,2275,3717,29.5,57.9,venta,departamento
+7683,"Eleuterio Ramírez 723, Santiago",-33.44807,-70.64538,n/a,3056,5116,36.13,66.98,venta,departamento
+8138,"Irarrázaval 5350, Ñuñoa",-33.45326,-70.57437,n/a,2604,5466,26.18,60.05,venta,departamento
+9041,"El Blanco 58, La Florida",-33.52544,-70.60032,n/a,1952,3735,27.77,74.38,venta,departamento
+8097,"Los Tres Antonios 156 esq. Dublé Almeyda, Ñuñoa",-33.45579,-70.60255,n/a,3670,7740,37,99.5,venta,departamento
+8546,"Vicuña Mackenna 3030, Macul",-33.4786,-70.62194,n/a,2232,3402,28.29,58.32,venta,departamento
+8747,"Séptima Avenida 1262, San Miguel",-33.50952,-70.66084,n/a,2347,3830,43.37,76.22,venta,departamento
+8800,"Av. Canal La Luz 3810, Puente Alto",-33.57463,-70.5395,n/a,2729,3807,70.64,83.57,venta,departamento
+8557,"Chile España 451, Ñuñoa",-33.45078,-70.59794,n/a,3540,88,33.3,87.64,venta,departamento
+8023,"Carlos Silva Vildosola 1068, San Miguel",-33.47769,-70.64744,n/a,2416,3639,47.78,72.58,venta,departamento
+8283,"Lord Cochrane 355, Santiago",-33.45096,-70.65462,n/a,2892,5644,34.76,67.78,venta,departamento
+8363,"Franklin con Santa Elena, Santiago",-33.47117,-70.62676,n/a,2355,3790,34.6,65.75,venta,departamento
+7332,"Seminario 776, Ñuñoa",-33.45175,-70.62724,n/a,3220,6590,33.6,93.94,venta,departamento
+6558,"San Nicolás 1446, San Miguel",-33.49707,-70.66124,n/a,2134,3362,36,60,venta,departamento
+8567,"Fray Camilo Henríquez 320, Santiago",-33.44611,-70.63486,n/a,2250,4167,30.3,66.91,venta,departamento
+8825,"Juan Moya Morales 332, Ñuñoa",-33.45832,-70.5866,n/a,3593,7777,39.19,113.23,venta,departamento
+8860,"Domingo Faustino Sarmiento 338, Ñuñoa",-33.45032,-70.61465,n/a,2942,5187,38.08,67.81,venta,departamento
+6617,"Pedro Alarcón 844, San Miguel",-33.48735,-70.64521,n/a,3231,0,54.86,54.86,venta,departamento
+8817,"Santa Isabel 330, Santiago",-33.4485,-70.63631,n/a,2787,3805,34,54.03,venta,departamento
+6307,"General Mackenna 1520, Santiago",-33.43327,-70.65921,n/a,2599,3220,30.35,52.5,venta,departamento
+6352,"Cuarta Avenida 1447, San Miguel",-33.50551,-70.66287,n/a,2774,3645,50.18,65.35,venta,departamento
+8263,"San Diego 378, Santiago",-33.45017,-70.65052,n/a,2877,5170,35.35,66.07,venta,departamento
+6325,"Camino El Roble 1550, Huechuraba",-33.34946,-70.67561,n/a,3778,4538,66.81,86.65,venta,departamento
+7526,"Armando Moock 3945, Macul",-33.49017,-70.59814,n/a,3000,0,60.02,60.02,venta,departamento
+6675,"Monumento 2158, Maipú",-33.50769,-70.75911,n/a,3367,3823,60.83,65.18,venta,departamento
+8566,"Abate Molina s/n, Santiago",-33.45765,-70.67222,n/a,1633,3421,22.32,70.98,venta,departamento
+6197,"Vicuña Mackenna Poniente 6.700, La Florida",-33.5167,-70.60535,n/a,2147,4131,42.44,95.4,venta,departamento
+8163,"Purísima 050, Estación Central",-33.45526,-70.69942,n/a,1870,3247,22.76,68.34,venta,departamento
+7219,"Carmen 120, Santiago",-33.44488,-70.6428,n/a,2274,4031,27.16,61.62,venta,departamento
+8233,"Ventura Blanco 1377, San Miguel",-33.49498,-70.65921,n/a,3326,3336,40.41,41.55,venta,departamento
+8570,"Av. Colombia 7738, La Florida",-33.52394,-70.5892,n/a,1990,4527,39.61,71.61,venta,departamento
+7081,"Sazié 2048, Santiago",-33.45025,-70.664,n/a,2890,0,48.84,57.11,venta,departamento
+8585,"Zañartu 980, Ñuñoa",-33.47336,-70.62328,n/a,2585,3775,37.15,65.06,venta,departamento
+7364,"Departamental 1475, La Florida",-33.50968,-70.59553,n/a,2100,3690,37.21,67.65,venta,departamento
+8174,"General Freire 80, La Cisterna",-33.52076,-70.65861,n/a,2306,3493,43.57,73.2,venta,departamento
+7845,"Vicuña Mackenna 3897, San Joaquín",-33.48928,-70.61829,n/a,2947,5347,40.05,79.87,venta,departamento
+8630,"Las Dalias 1870, Ñuñoa",-33.47207,-70.60226,n/a,3570,4985,57,82,venta,departamento
+8479,"Los Olmos 3031, Macul",-33.47942,-70.60106,n/a,3279,5002,51.72,83.95,venta,departamento
+7715,"Av. Ossa 0180, La Cisterna",-33.53858,-70.66553,n/a,2249,3820,35.7,64.2,venta,departamento
+6858,"San Gumercindo 77, Estación Central",-33.4514,-70.69511,n/a,1959,2645,33.43,56.5,venta,departamento
+8562,"Los Clarines 3120, Macul",-33.48403,-70.60052,n/a,2590,5090,37.01,90.99,venta,departamento
+8004,"García Valenzuela 44, Ñuñoa",-33.45129,-70.63068,n/a,2450,0,27,62,venta,departamento
+8678,"Goycolea 100, La Cisterna",-33.54017,-70.66391,n/a,1840,0,34.94,46.17,venta,departamento
+7357,"Av. Irarrázaval 2220, Ñuñoa",-33.45378,-70.60784,n/a,3777,7032,40.79,85.29,venta,departamento
+8390,"Ventura Blanco Viel 1400, San Miguel",-33.49491,-70.65967,n/a,2313,4631,35.39,78.28,venta,departamento
+4708,"Camino del Paisaje 6546, La Florida",-33.5112,-70.52879,n/a,2690,6920,53.08,129.69,venta,departamento
+8608,"Walker Martínez 1155, La Florida",-33.52274,-70.58573,n/a,3104,6876,42.68,98.09,venta,departamento
+7666,"Apóstol Santiago 18, Estación Central",-33.45135,-70.69289,n/a,2115,0,34.75,50.79,venta,departamento
+7050,"Conde del Maule 4571, Estación Central",-33.45443,-70.69873,n/a,2585,3202,51.25,66.42,venta,departamento
+8021,"Santa Cristina 3138, Macul",-33.48742,-70.60106,n/a,2600,4532,38.98,79.18,venta,departamento
+8286,"Bretaña 1993, Ñuñoa",-33.44708,-70.61234,n/a,3745,9000,40.13,104.33,venta,departamento
+6450,"Av. Ecuador 4678, Estación Central",-33.45382,-70.69992,n/a,2506,3633,48.89,73.08,venta,departamento
+9066,"Castillo Urizar 1850, Ñuñoa",-33.47191,-70.60998,n/a,2575,5000,32.89,80.5,venta,departamento
+8036,"Av. Recoleta 1760, Recoleta",-33.4115,-70.64386,n/a,2800,0,53.79,56.33,venta,departamento
+5319,"Av. Vicuña Mackenna 2289, San Joaquín",-33.47123,-70.62405,n/a,2224,3990,35.8,74.44,venta,departamento
+7124,"Avenida Macul 2323, Macul",-33.47611,-70.59907,n/a,3115,3869,48.78,68.84,venta,departamento
+8247,"Vicuña Mackenna 5862, La Florida",-33.50962,-70.61224,n/a,1690,3290,21.03,59.12,venta,departamento
+8832,"Mirador Azul 133, La Florida",-33.51275,-70.60662,n/a,2509,3646,37.63,60.67,venta,departamento
+8697,"Alcalde Pedro Alarcon, San Miguel",-33.48733,-70.64423,n/a,2231,4218,32.07,71.16,venta,departamento
+7001,"Cuarta Avenida 1336, San Miguel",-33.50613,-70.66081,n/a,2128,2956,33.39,58.76,venta,departamento
+8490,"Argomedo 344, Santiago",-33.44979,-70.63597,n/a,2151,4401,29.42,66.45,venta,departamento
+8978,"Vicuña Mackenna 7149 / 7189, La Florida",-33.52026,-70.60223,n/a,2305,3890,36.26,58.24,venta,departamento
+8291,"Vicuña Mackenna 3756, Macul",-33.48688,-70.61776,n/a,3060,0,37.41,67,venta,departamento
+7841,"Avenida Macul 2301, Macul",-33.47582,-70.59906,n/a,2750,0,51.02,100.71,venta,departamento
+9026,"San Diego 2044, Santiago",-33.47268,-70.64815,n/a,2415,0,37.09,67.27,venta,departamento
+8199,"Calle Tres 1302, La Reina",-33.46192,-70.54324,n/a,3570,5814,52.05,141.17,venta,departamento
+8249,"Julio Prado 1810, Ñuñoa",-33.44934,-70.62031,n/a,3440,8020,36.52,111.79,venta,departamento
+6692,"Avenida Perú Plaza 1471, Recoleta",-33.41541,-70.63848,n/a,2482,4297,36.8,81.88,venta,departamento
+8157,"Francisco Javier Krugger 4055, Buin",-33.7638,-70.73623,n/a,2740,3310,60.49,82.97,venta,departamento
+7654,"Matucana 1101, Santiago",-33.43297,-70.68059,n/a,1924,2949,27.6,62.4,venta,departamento
+6256,"Av. Perú 733, Recoleta",-33.42475,-70.63986,n/a,2864,6168,37.04,98.88,venta,departamento
+5970,"El Descanso 1400, Maipú",-33.46977,-70.75781,n/a,3190,3505,68.03,76.83,venta,departamento
+6544,"Trinidad Ramirez 0180, La Cisterna",-33.5428,-70.66905,n/a,2695,3063,39.33,62.48,venta,departamento
+5900,"Av. Camino Agrícola 1710, Macul",-33.49126,-70.61488,n/a,3390,4290,53.07,75.68,venta,departamento
+8802,"Santa Victoria 9448, La Florida",-33.53809,-70.55476,n/a,2288,4772,34.99,95.21,venta,departamento
+6564,"Carrión 1346, Independencia",-33.41936,-70.65788,n/a,3445,0,63.51,63.51,venta,departamento
+4878,"Av. Escuela Agrícola 1710, Macul",-33.49101,-70.61559,n/a,2990,0,47.27,47.27,venta,departamento
+7068,"Avenida Ossa 375, La Cisterna",-33.53971,-70.66044,n/a,2391,2692,50.92,53.14,venta,departamento
+8633,"Santos Dumont 750, Recoleta",-33.42177,-70.64762,n/a,2840,4490,56.87,76.08,venta,departamento
+5348,"Blanco Encalada 2501, Santiago",-33.45798,-70.67039,n/a,3427,3459,69.3,69.3,venta,departamento
+7694,"Vicuña Mackenna 9060, La Florida",-33.52845,-70.59688,n/a,3377,4583,60.7,82.3,venta,departamento
+8835,"Tocornal 636, Santiago",-33.45121,-70.63968,n/a,2490,4905,36.99,100.57,venta,departamento
+8794,"Francisco de Villagra 161, Ñuñoa",-33.4553,-70.57491,n/a,3380,4940,39.47,58.69,venta,departamento
+7791,"Av. Fernández Albano 775, La Cisterna",-33.5253,-70.65184,n/a,2908,3660,52.29,76.81,venta,departamento
+7771,"Martínez de Rozas 2330, Santiago",-33.43393,-70.66958,n/a,2888,2908,50.31,50.31,venta,departamento
+6989,"Avenida Vicuña Mackenna 12017, La Florida",-33.54648,-70.58817,n/a,2513,2931,57.6,67.92,venta,departamento
+8103,"Avenida Punta Arenas 6600, La Florida",-33.51845,-70.61064,n/a,2349,2955,56.95,67.27,venta,departamento
+8649,"Eleuterio Ramirez 1427, Santiago",-33.45033,-70.65525,n/a,2960,5120,38.03,63.71,venta,departamento
+6995,"Av. Consistorial 6130, Peñalolén",-33.51177,-70.55411,n/a,3738,0,69.48,105.32,venta,departamento
+7304,"Eyzaguirre 771, Santiago",-33.45194,-70.64597,n/a,3045,4035,50.01,64.71,venta,departamento
+7648,"Bartolo Soto 4033, San Miguel",-33.49068,-70.65384,n/a,2760,7760,37.53,132.29,venta,departamento
+8887,"Av. Fernández Albano 565, La Cisterna",-33.52471,-70.65414,n/a,2140,4220,42,91,venta,departamento
+7805,"Colombia 8863, La Florida",-33.53468,-70.58549,n/a,2546,4067,44.3,75.2,venta,departamento
+8589,"Carrión 1507, Independencia",-33.41924,-70.65974,n/a,2320,3330,36.32,61.2,venta,departamento
+7889,"Abtao 24, Estación Central",-33.45302,-70.70032,n/a,1785,2764,22.77,45.5,venta,departamento
+8448,"Poeta Vicente Huidobro 3555, Macul",-33.48625,-70.59796,n/a,2335,0,36.98,78.65,venta,departamento
+8775,"Av. Departamental 797, La Florida",-33.5093,-70.6033,n/a,2748,4531,36.4,81.97,venta,departamento
+4949,"Domínica 404, Recoleta",-33.42607,-70.64316,n/a,3572,4450,62.11,80.2,venta,departamento
+7199,"San Nicolás 1278, San Miguel",-33.49814,-70.65777,n/a,2420,0,37.59,82.74,venta,departamento
+6927,"Argomedo 350, Santiago",-33.44984,-70.63657,n/a,1875,4205,24.52,65.06,venta,departamento
+8160,"Carmen Mena 1050, San Miguel",-33.50638,-70.65492,n/a,2627,0,38.52,38.52,venta,departamento
+7437,"Catedral 3151, Santiago",-33.44015,-70.67829,n/a,2461,3168,39.3,53.7,venta,departamento
+6986,"Blanco Viel 1337, San Miguel",-33.49521,-70.658,n/a,3072,3975,49.19,70.76,venta,departamento
+8099,"Macul 3401, Macul",-33.48583,-70.59966,n/a,2812,6227,37.53,90.69,venta,departamento
+8529,"San Jerónimo 5020, San Miguel",-33.49917,-70.65641,n/a,2437,0,39.24,79.6,venta,departamento
+8266,"Fray Camilo Henríquez 660, Santiago",-33.45053,-70.63362,n/a,2370,4520,29.56,75.14,venta,departamento
+8213,"Calle Andalucía 1340, Quilicura",-33.38033,-70.7318,n/a,2478,3006,59.04,68.69,venta,departamento
+8963,"Américo Vespucio 231, La Cisterna",-33.53606,-70.66773,n/a,2779,3000,57.9,64.35,venta,departamento
+8843,"Santo Domingo 1944, Santiago",-33.43765,-70.66403,n/a,1686,3696,23.91,50.94,venta,departamento
+6525,"Marchant Pereira 3361, Ñuñoa",-33.45348,-70.6073,n/a,3610,6800,42.37,69.99,venta,departamento
+7659,"Recreo 250, Estación Central",-33.45725,-70.69589,n/a,2280,0,37.08,65.87,venta,departamento
+7448,"Av. Fermín Vivaceta 3750, Conchalí",-33.39476,-70.67605,n/a,1560,0,25.13,72.25,venta,departamento
+8604,"Calle Yungay 2570, Santiago",-33.4295,-70.67289,n/a,1691,2940,29,68,venta,departamento
+8971,"Las Enredaderas 2154, Independencia",-33.40626,-70.66888,n/a,1669,3293,32.07,67.78,venta,departamento
+9002,"Carlos Silva Vildosola 870, San Miguel",-33.47773,-70.64445,n/a,2002,3607,38.75,74.01,venta,departamento
+6711,"Rivera 1.640, Independencia",-33.42623,-70.65789,n/a,2070,2340,33.47,34.91,venta,departamento
+8047,"María Rozas Velásquez 45, Estación Central",-33.45444,-70.70573,n/a,1665,2755,28.5,54.25,venta,departamento
+7017,"Bartolo Soto 4033, San Miguel",-33.49068,-70.65384,n/a,3405,3600,56.41,61.73,venta,departamento
+8270,"Calle Barcelona 160, La Florida",-33.51518,-70.60539,n/a,2117,0,36.42,59.88,venta,departamento
+7223,"Berlín 927, San Miguel",-33.49382,-70.64931,n/a,2300,2875,38.42,58.23,venta,departamento
+8177,"José Domingo Cañas 2640, Ñuñoa",-33.45692,-70.60426,n/a,3652,0,40.97,66.27,venta,departamento
+6340,"Argomedo 321, Santiago",-33.44958,-70.63487,n/a,3181,3653,50.02,58.78,venta,departamento
+7381,"Alberto Undurraga 1567, Huechuraba",-33.35682,-70.67491,n/a,3500,4450,71.1,95.7,venta,departamento
+8675,"Curiñanca 830, San Miguel",-33.49003,-70.6451,n/a,2822,4633,41.75,89.05,venta,departamento
+8030,"Exequiel Fernández esquina Madreselvas, Macul",-33.48315,-70.60149,n/a,2400,4410,34.59,80.8,venta,departamento
+6302,"San Ignacio de Loyola 4250, San Miguel",-33.49186,-70.65746,n/a,3365,0,63.74,63.74,venta,departamento
+8912,"Urmeneta 32, San Bernardo",-33.58579,-70.70439,n/a,1939,3317,43,72.14,venta,departamento
+8655,"El Hualle 8039, La Florida",-33.52822,-70.55426,n/a,3447,5703,60.28,103.59,venta,departamento
+7205,"Alcalde Pedro Alarcón 834, San Miguel",-33.48728,-70.64489,n/a,2984,4222,48.24,71.72,venta,departamento
+8759,"Seminario 677, Ñuñoa",-33.44991,-70.62792,n/a,2740,5100,28.46,54.73,venta,departamento
+6314,"Irarrázaval 4994, Ñuñoa",-33.45429,-70.57802,n/a,3343,6141,46.8,106.1,venta,departamento
+8650,"Carmen 90, Santiago",-33.44418,-70.6428,n/a,2585,4305,27.6,49.84,venta,departamento
+8446,"Cotapos 1369, Independencia",-33.4083,-70.65972,n/a,2509,3960,37.78,77.44,venta,departamento
+8988,"Exequiel Fernández 1928, Ñuñoa",-33.47282,-70.60116,n/a,3430,5490,55.34,91.28,venta,departamento
+7891,"Carvajal 358, La Cisterna",-33.51579,-70.66229,n/a,2108,3537,33.62,70.11,venta,departamento
+8299,"Novena Avenida 1316, San Miguel",-33.51148,-70.6617,n/a,2243,3117,31.97,59.09,venta,departamento
+8280,"Blanco Encalada 1538, Renca",-33.40197,-70.70497,n/a,1976,2901,49,72.9,venta,departamento
+8822,"Lo Errázuriz 2441, Cerrillos",-33.50344,-70.70538,n/a,2488,2800,57.99,68.3,venta,departamento
+8487,"Libertad 30, Maipú",-33.50561,-70.75807,n/a,2790,4190,44,75.9,venta,departamento
+7287,"Constantino 54, Estación Central",-33.45175,-70.69671,n/a,2058,0,34.04,65.85,venta,departamento
+7985,"Claudio Arrau 8750, Pudahuel",-33.45066,-70.75948,n/a,2742,3416,55.42,72.39,venta,departamento
+6573,"San Cristóbal 514, Recoleta",-33.42069,-70.64299,n/a,3098,4783,49.75,95.37,venta,departamento
+6127,"Bombero Hugo Olguín 7331, Cerrillos",-33.50767,-70.70779,n/a,3102,0,92,97,venta,departamento
+8225,"Av. Pedro Fontova 7330, Huechuraba",-33.3546,-70.67099,n/a,2800,5500,58.15,107.28,venta,departamento
+7691,"Los Alerces 2363, Ñuñoa",-33.47142,-70.60862,n/a,3700,4990,68.67,84.47,venta,departamento
+8991,"Tierra Fértil 1835, Maipú",-33.47235,-70.75671,n/a,2722,3090,62.24,68.39,venta,departamento
+8456,"Tercera avenida 1177, San Miguel",-33.5059,-70.6573,n/a,2265,3373,38.66,73.27,venta,departamento
+8851,"Domeyko 2010, Santiago",-33.4561,-70.6628,n/a,2520,8510,24.82,104.63,venta,departamento
+8349,"Av. Fernández Albano 424, La Cisterna",-33.52421,-70.6557,n/a,1774,2684,36.15,65.09,venta,departamento
+7423,"Alcalde Pedro Alarcón 900, San Miguel",-33.48676,-70.647,n/a,2200,3695,36.95,85.37,venta,departamento
+6661,"Tierra Fértil 1745, Maipú",-33.47199,-70.75697,n/a,2693,2953,65.94,65.94,venta,departamento
+8175,"Santa Clara 360, La Cisterna",-33.52027,-70.65561,n/a,1569,3316,23.29,51.91,venta,departamento
+7234,"Av. Vicuña Mackenna 8840, La Florida",-33.53624,-70.5924,n/a,2865,3839,49.56,67.45,venta,departamento
+7165,"Salesianos esquina Gran Avenida J. M. Carrera, San Miguel",-33.49233,-70.65236,n/a,3024,3460,54.03,73.08,venta,departamento
+8154,"Avenida Seminario 763, Ñuñoa",-33.45152,-70.6275,n/a,2690,7100,25.66,91.21,venta,departamento
+8256,"General Mackenna 1531, Santiago",-33.43318,-70.65949,n/a,2310,5050,25.94,91.21,venta,departamento
+7838,"Conde del Maule 4670, Estación Central",-33.45504,-70.70083,n/a,2330,0,36.66,57.89,venta,departamento
+8282,"Av. Las Condes 12751, Las Condes",-33.37186,-70.51377,n/a,3990,6749,36.98,82.96,venta,departamento
+7414,"Avenida Lo Errázuriz 2441, Cerrillos",-33.50221,-70.70793,n/a,2729,3827,57.77,85.87,venta,departamento
+6601,"Av. Padre Alberto Hurtado 59, Estación Central",-33.4549,-70.69083,n/a,1975,3105,24.66,53.25,venta,departamento
+5779,"Av. Independencia 2264, Independencia",-33.40528,-70.66212,n/a,1980,5296,27.22,73.25,venta,departamento
+6943,"Bulnes 872, San Bernardo",-33.59907,-70.70326,n/a,2550,3300,53.6,71.1,venta,departamento
+8801,"Santa Elena 922, Santiago",-33.45381,-70.63165,n/a,2330,4040,29.97,62.47,venta,departamento
+7247,"Avenida Diego Portales 7080, Puente Alto",-33.56169,-70.54073,n/a,3050,3541,63.64,84.6,venta,departamento
+8578,"Av. América 755, San Bernardo",-33.59662,-70.7114,n/a,1824,4094,40.32,90,venta,departamento
+7277,"Av. Concha y Toro 2940, Puente Alto",-33.58373,-70.58112,n/a,2190,3324,36.98,70.07,venta,departamento
+8994,"La Coruña 4855, Estación Central",-33.45225,-70.70152,n/a,2304,0,46.44,57.4,venta,departamento
+7121,"Lago Pirihueico 6502, La Florida",-33.51357,-70.59264,n/a,2400,3465,36.7,76.1,venta,departamento
+7913,"Zañartu 1313, Ñuñoa",-33.47322,-70.61869,n/a,2645,4497,36.89,75.53,venta,departamento
+3449,"Recoleta 550, Recoleta",-33.42581,-70.64638,n/a,3002,3105,58.71,61.33,venta,departamento
+7576,"Vicente Huidobro 3500, Macul",-33.486,-70.59826,n/a,2335,4125,36.46,67.9,venta,departamento
+7807,"Avenida el Peral 06898, Puente Alto",-33.57547,-70.54134,n/a,2606,3185,61.11,80.17,venta,departamento
+6668,"Doctor Johow 995, Ñuñoa",-33.46467,-70.59424,n/a,2252,4175,21.71,76.55,venta,departamento
+8938,"Vicuña Mackenna 8597, La Florida",-33.5339,-70.59381,n/a,3072,3241,59.38,63.41,venta,departamento
+8831,"Av. Las Torres 474, Valle Lo Campino, Quilicura",-33.38334,-70.72987,n/a,3222,5149,74.97,109.56,venta,departamento
+8219,"Calle San Carlos 2050, Puente Alto",-33.59567,-70.55022,n/a,2480,2680,63.99,68.84,venta,departamento
+7035,"Barcelona 161, La Florida",-33.5154,-70.60538,n/a,3635,3748,61.27,61.27,venta,departamento
+8556,"Santa Elena de Huechuraba 1250, Huechuraba",-33.36797,-70.66532,n/a,3290,3628,66.26,70.57,venta,departamento
+8405,"Arturo Prat 565, Santiago",-33.45204,-70.64903,n/a,2335,4550,29.12,60.35,venta,departamento
+7837,"Inés de Suarez 7630, La Florida",-33.52416,-70.58842,n/a,3277,4238,56.45,97.27,venta,departamento
+6328,"María Graham 545, Recoleta",-33.41505,-70.64268,n/a,1893,3147,45.53,63.15,venta,departamento
+5595,"Irarrázaval 2150, Ñuñoa",-33.45369,-70.60856,n/a,3790,3845,49.67,49.67,venta,departamento
+6905,"Eleuterio Ramirez 1335, Santiago",-33.45003,-70.65377,n/a,3030,3945,37.25,53.97,venta,departamento
+8360,"Diagonal Santa Elena 2857, San Joaquín",-33.47899,-70.62997,n/a,2117,2930,35.65,54.82,venta,departamento
+7349,"Villasana 1451, Quinta Normal",-33.43251,-70.68836,n/a,2435,2521,41.15,51.47,venta,departamento
+7383,"Av. Vicuña Mackenna 1385, Santiago",-33.46027,-70.6284,n/a,2474,4453,32.13,76.16,venta,departamento
+8321,"Puntiagudo 5361, Conchalí",-33.37959,-70.67568,n/a,1706,3029,33.82,53.95,venta,departamento
+8555,"Arcadia 1431, San Miguel",-33.47974,-70.65242,n/a,3072,3654,64.28,75.61,venta,departamento
+8143,"Fernández Albano 192, La Cisterna",-33.52392,-70.65757,n/a,2092,0,33.83,60.7,venta,departamento
+8425,"Santa Petronila 28, Estación Central",-33.45405,-70.70457,n/a,2014,2661,33.34,52.89,venta,departamento
+8258,"Av. Lo Ovalle 0150, La Cisterna",-33.51451,-70.65962,n/a,2013,3295,36.37,62,venta,departamento
+4695,"Calle América 449, San Bernardo",-33.59176,-70.70926,n/a,1722,3507,35,90.8,venta,departamento
+7142,"Varas Mena 771, San Miguel",-33.51059,-70.64859,n/a,2789,3665,69.7,85.42,venta,departamento
+8042,"Inés de Suárez 7763, La Florida",-33.52626,-70.5877,n/a,2734,4446,49.68,74.86,venta,departamento
+7079,"Eyzaguirre 819, Santiago",-33.45207,-70.64692,n/a,2256,3890,27.04,69.49,venta,departamento
+7059,"O´Higgins 926, San Bernardo",-33.59049,-70.70937,n/a,1863,2772,31.52,61.93,venta,departamento
+6569,"General Mackenna 1531, Santiago",-33.43318,-70.65949,n/a,2870,3930,35,64.86,venta,departamento
+8738,"Los Viñedos 6412, Puente Alto",-33.56158,-70.5513,n/a,2664,3135,58.85,69.09,venta,departamento
+7712,"Lira 185, Santiago",-33.44559,-70.64037,n/a,2820,3021,22.38,36.02,venta,departamento
+6652,"Av. Quilín 3.375, Macul",-33.48503,-70.59817,n/a,2860,5045,45.73,84.47,venta,departamento
+5016904,"Metro Hospital, Independencia",-33.42199,-70.65519,2D/1B,2500,0,46,48,venta,departamento
+4913625,"Metro Cumming, Santa Ana, Santiago",-33.43976,-70.67029,2D/1B,2504,0,57,57,venta,departamento
+4994550,"Mujica, Ñuñoa - Departamento 55, Ñuñoa",-33.4506,-70.62876,1D/1B,2550,0,36,36,venta,departamento
+5004212,"Metro Santa Isabel, Santiago",-33.44755,-70.63264,1D/1B,2550,0,27,30,venta,departamento
+5035881,"San Isidro 234 - San Isidro, Santiago, Santiago",-33.44648,-70.64387,2D/1B,2572,0,40,42,venta,departamento
+5014629,"PISO 2 - DEPARTAMENTO TOTALMENTE REMODELADO EN MODERNO EDIFICIO A PASOS DEL METRO SANTA ANA, Santiago",-33.43565,-70.65874,2D/1B,2574,0,48,48,venta,departamento
+4982929,"Departamento Estudio Metro Bellas Artes Parque Forestal Vista Despejada Con Bodega, Santiago",-33.43609,-70.64346,1D/1B,2575,0,30,30,venta,departamento
+5008938,"Bartolo Soto 4026, San Miguel - Departamento 147, San Miguel",-33.49072,-70.65361,1D/1B,2608,0,44,42,venta,departamento
+4989712,"METRO PARQUE O'HIGGINS / AV MATTA, Santiago",-33.45993,-70.65404,2D/2B,2620,0,47,49,venta,departamento
+4991842,"Santa Isabel / Carmen, Santiago",-33.4497,-70.64206,2D/1B,2681,0,48,48,venta,departamento
+4641842,"Irarrazabal, Ñuñoa",-33.4508,-70.62966,1D/1B,2690,0,36,38,venta,departamento
+5015400,"Depto Av. Ecuador, Metro Ecuador Con Estacionamiento Y Bodega, Estación Central",-33.45376,-70.69896,2D/2B,2700,0,44,54,venta,departamento
+5030691,"Serrano Con Santa Isabel, Santiago",-33.45262,-70.64777,2D/1B,2700,0,40,42,venta,departamento
+4971260,"La Marina 1261, San Miguel",-33.49708,-70.65656,3D/2B,2715,0,62,65,venta,departamento
+5040154,"Doctor Johow 995, Ñuñoa",-33.46467,-70.59424,1D/1B,2730,0,33,36,venta,departamento
+4931475,"Avenida Grecia 2504 - Departamento 204, Ñuñoa",-33.46214,-70.60524,2D/1B,2783,0,63,63,venta,departamento
+4953165,"San Martín / Compañía, Santiago",-33.43893,-70.65799,2D/2B,2800,0,45,49,venta,departamento
+4984389,"Exequiel Fernandez 1938, Ñuñoa",-33.47307,-70.60114,1D/1B,2800,0,39,42,venta,departamento
+5008209,"Exequiel Fernandez 1555, Ñuñoa",-33.46945,-70.60061,1D/1B,2830,0,38,40,venta,departamento
+5023427,"Eleuterio Ramirez/ San Diego, Santiago",-33.44925,-70.65006,2D/1B,2841,0,43,45,venta,departamento
+5028179,"José Benavente / Metro Chile España, Ñuñoa",-33.45464,-70.59751,1D/1B,2850,0,40,41,venta,departamento
+5024582,"Argomedo / Vicuña Mackenna, Santiago",-33.4487,-70.63288,2D/2B,2858,0,52,54,venta,departamento
+4987289,"Casona Harrington, Cercano A Metro Toesca, Santiago",-33.45201,-70.65609,2D/2B,2860,0,43,43,venta,departamento
+5013520,"Antonio Bellet 90 - Departamento 1108, Providencia",-33.42646,-70.61726,1D/1B,2860,0,22,24,venta,departamento
+5023115,"Froilán Roa 6767, La Florida",-33.51564,-70.59929,3D/2B,2900,0,70,75,venta,departamento
+4992094,"Independencia 740, Independencia",-33.41335,-70.66629,3D/2B,2931,0,70,73,venta,departamento
+4792155,"Cerro Blanco, Recoleta",-33.4205,-70.645,2D/2B,2934,0,63,67,venta,departamento
+4988319,"VENTA PROMESA DE COMPRAVENTA, Las Condes",-33.4132,-70.5426,3D/4B,2950,0,136,162,venta,departamento
+5022761,"Avenida Macul, Macul",-33.47814,-70.59841,1D/1B,2966,0,50,55,venta,departamento
+4881147,"LORETO/SANTA FILOMENA/PARQUE FORESTAL, Recoleta",-33.4294,-70.6419,2D/2B,2999,0,53,53,venta,departamento
+4978757,"Avenida Salesianos 1440, San Miguel",-33.49074,-70.65861,2D/2B,3036,0,53,55,venta,departamento
+5000940,"Metro Parque Bustamante, Santiago",-33.44387,-70.63337,2D/1B,3038,0,46,46,venta,departamento
+4862135,"Gran Avenida Jose Miguel Carrera 6300, San Miguel",-33.51423,-70.65761,3D/2B,3059,0,65,65,venta,departamento
+4882485,"Dieciocho /Santa Isabel, Santiago",-33.4476,-70.6583,2D/2B,3100,0,45,48,venta,departamento
+5006967,"Vicuña Mackena Con Matta, Maitén Propiedades Donamos 5% De La Comision, Corretaje Con Sentido, Santiago",-33.45506,-70.63191,2D/2B,3100,0,50,53,venta,departamento
+5024635,"San Pablo / Teatinos, Santiago",-33.43422,-70.65569,2D/2B,3100,0,61,63,venta,departamento
+5024631,"Amunategui / San Pablo, Santiago",-33.43417,-70.65758,2D/2B,3124,0,59,63.5,venta,departamento
+4962003,"Padre Orellana 1656 /Metro Nuble, Santiago",-33.46602,-70.62975,2D/1B,3150,0,42,44,venta,departamento
+5009635,"Santos Dumont 720 - Departamento 502, Recoleta",-33.42225,-70.64689,3D/2B,3170,0,66,73,venta,departamento
+4971737,"Gerónimo De Alderete 790, La Florida",-33.52762,-70.5888,3D/2B,3180,0,69,72,venta,departamento
+5004239,"Grecia, DUPLEX, PARA REMODELAR!!!, Ñuñoa",-33.46313,-70.60408,3D/1B,3180,0,82,82,venta,departamento
+4998743,"Compañía De Jesús 1429 - Compañía De Jesús, Santiago, Santiago",-33.44889,-70.66927,2D/2B,3183,0,66,70,venta,departamento
+4972103,"OPORTUNIDAD! San Eugenio/Carlos Dittborn-Metro Ñuble, Ñuñoa",-33.4638,-70.62498,2D/1B,3200,0,41,44,venta,departamento
+4902069,"PZ-Gran Avenida/Florencia, San Miguel",-33.4905,-70.6527,2D/2B,3215,0,78,78,venta,departamento
+4974149,"Metro Ecuador, Estación Central",-33.45272,-70.69784,3D/2B,3260,0,66,70,venta,departamento
+4901168,"Av Beaucheff / Tupper, Santiago",-33.46401,-70.66413,3D/2B,3260,0,70,73,venta,departamento
+5027459,"Metro Cal Y Canto, Santiago",-33.43353,-70.65539,3D/2B,3270,0,71,71,venta,departamento
+4972855,"LOFT // Calle Dieciocho/Santa Isabel, Santiago",-33.4516,-70.6579,1D/1B,3300,0,41,71,venta,departamento
+4983139,"Metro Sta Isabel, Santiago",-33.4469,-70.63253,3D/2B,3300,0,68,68,venta,departamento
+5008526,"Marin / Lira, Santiago",-33.44733,-70.63901,3D/2B,3324,0,72,80,venta,departamento
+4805386,"Torres De San Borja - Marcoleta, Santiago",-33.441,-70.6398,3D/1B,3397,0,70,75,venta,departamento
+4936308,"Gran Avenida Jose Miguel Carrera, La Cisterna",-33.52531,-70.65151,3D/2B,3398,0,74,74,venta,departamento
+4798745,"IDEAL PARA INVERSIÓN, DEPARTAMENTO CON EXCELENTE CONECTIVIDAD, VISTA DESPEJADA, LADO METRO IRARRAZAVAL, 2 DORMITORIOS, 2 BAÑOS, Ñuñoa",-33.45242,-70.62599,2D/2B,3400,0,55,63,venta,departamento
+5000080,"Metro Universidad De Chile, Santiago",-33.44683,-70.64782,2D/2B,3400,0,43,48,venta,departamento
+4981924,"Vicuña Mackenna 601, Santiago",-33.44898,-70.63205,2D/2B,3400,0,50,50,venta,departamento
+4983880,"MARAVILLOSO / TERESA VIAL / METRO LO VIAL, San Miguel",-33.49299,-70.65449,2D/2B,3400,0,64,68,venta,departamento
+4739504,"Teniente Cruz 21, Pudahuel",-33.46962,-70.73691,3D/2B,3420,0,75,75,venta,departamento
+5002046,"Avenida Quilín 123, Macul",-33.4855,-70.61964,2D/2B,3420,0,55.3,60.6,venta,departamento
+4983246,"Los Clarines, Macul, Macul",-33.48411,-70.59945,2D/1B,3430,0,48,51,venta,departamento
+4991973,"Mujica 99, Ñuñoa",-33.45079,-70.62962,2D/2B,3434,0,50,53,venta,departamento
+4880000,"MONSEÑOR ESCRIVA / LAS CONDES, Lo Barnechea",-33.36315,-70.4939,2D/1B,3470,0,60,65,venta,departamento
+4423319,"San Martín 733 - Departamento 913, Santiago",-33.43556,-70.65846,2D/2B,3500,0,60,70,venta,departamento
+5022557,"Blanco Encalada 1723 - Departamento 1601, Santiago",-33.45612,-70.65812,3D/2B,3500,0,79,84,venta,departamento
+5031059,"Avenida Macul / Los Olmos, Macul",-33.4802,-70.5997,2D/2B,3500,0,53,55,venta,departamento
+5014385,"Santa Rosa/Tarapaca, Santiago",-33.46824,-70.64238,2D/2B,3503,0,60,66,venta,departamento
+4996067,"Las Condes/Plaza San Enrique, Lo Barnechea",-33.3635,-70.495,2D/1B,3504,0,55,66,venta,departamento
+4907627,"Gath Y Chaves 2452 - Depto 411, Providencia",-33.42603,-70.60305,1D/1B,3527,0,36,36,venta,departamento
+4376415,"Tobalaba 7300 - Departamento 104, La Florida",-33.51817,-70.55817,3D/2B,3530,0,74,84,venta,departamento
+4865200,"Lord Cochrane 1007, Santiago",-33.45877,-70.6537,3D/2B,3550,0,67,69.5,venta,departamento
+4992431,"Platon, Ñuñoa",-33.46374,-70.62178,3D/2B,3577,0,90,90,venta,departamento
+4984653,"San Diego Y Conde Del Maule 1344 - Departamento 903 O, Santiago",-33.46291,-70.64802,2D/1B,3600,0,45,45,venta,departamento
+5009533,"Irarrázaval 1989, Ñuñoa",-33.45368,-70.61021,1D/1B,3600,0,40,40,venta,departamento
+4975834,"Teresa Vial 1170, San Miguel",-33.49337,-70.65398,3D/2B,3650,0,80,86,venta,departamento
+5030508,"3D + 2B (99 M2), Metro Hospitales, Independencia",-33.42029,-70.65962,3D/2B,3660,0,60.12,99.08,venta,departamento
+5035596,"Eleuterio Ramírez, Santiago - Departamento 1024, Santiago",-33.44916,-70.65003,3D/2B,3680,0,60,63,venta,departamento
+5026754,"Metro Vicente Valdés, La Florida",-33.5247,-70.53839,3D/2B,3690,0,78,80.5,venta,departamento
+4834187,"José Manuel Infante 2320 - Departamento 208, Ñuñoa",-33.45235,-70.61754,1D/1B,3700,0,45,50,venta,departamento
+5002062,"MANUEL MONTT / TENIENTE MONTT, Ñuñoa",-33.4502,-70.6129,1D/1B,3700,0,32,40,venta,departamento
+4969326,"5to Piso Sin Ascensor, F'Lazcano/ Llano, San Miguel",-33.4845,-70.6503,3D/2B,3742,0,78,80,venta,departamento
+5000765,"METRO SAN MIGUEL, AÑO 2015 , FLORENCIA, San Miguel",-33.49025,-70.65307,2D/2B,3750,0,55,65,venta,departamento
+4935649,"Duble Almeyda, Ñuñoa",-33.4543,-70.6165,1D/1B,3750,0,36,38,venta,departamento
+4971458,"Santo Domingo 652, Santiago",-33.43572,-70.64657,2D/2B,3850,0,50,52.75,venta,departamento
+5008595,"EXCELENTE OPORTUNIDAD DE COMPRA! DEPARTAMENTO COMO NUEVO!, Huechuraba",-33.34639,-70.67043,2D/2B,3850,0,70,70,venta,departamento
+4986552,"MODERNO Y LUMINOSO DEPARTAMENTO A PASOS, Ñuñoa",-33.45783,-70.59872,2D/2B,3880,0,46,51,venta,departamento
+4993209,"Carmen 187, Santiago",-33.44543,-70.64299,2D/2B,3890,0,70,79,venta,departamento
+5029289,"EDIFICIO PARQUE SACRAMENTINOS, Santiago",-33.45061,-70.64614,3D/2B,3931,0,75,80,venta,departamento
+4952410,"METRO MANUEL MONTT ROMAN DIAZ 175, Providencia",-33.432,-70.62182,1D/1B,3940,0,36,42,venta,departamento
+5031296,"Avenida Providencia 1072 - Departamento 1005, Providencia",-33.43023,-70.62272,2D/1B,3950,0,60,60,venta,departamento
+4983699,"Irarrazaval Con Hamburgo , Ñuñoa, Ñuñoa",-33.45418,-70.57619,2D/1B,3990,0,49,54,venta,departamento
+5022926,"Avenida Ricardo Lyon 2830, Ñuñoa - Departamento 84, Ñuñoa",-33.44687,-70.6023,1D/1B,4000,0,45,55,venta,departamento
+4865655,"ELEUTERIO RAMIREZ, Santiago",-33.4494,-70.6515,1D/1B,2500,0,35,35,venta,departamento
+4890630,"Padre Miguel De Olivares / Corte Suprema, Santiago",-33.44906,-70.656,1D/1B,2500,0,35.8,36,venta,departamento
+4851456,"METRO SANTA LUCÍA, Santiago",-33.4446,-70.6428,1D/1B,2500,0,30,30,venta,departamento
+4852785,"Edificio Sol Mundo - Vicuna Mackenna/nub, Santiago",-33.4665,-70.6275,2D/1B,2500,0,40,30,venta,departamento
+4852787,"Edificio Sol Mundo - Vicuna Mackenna/nub, Santiago",-33.4665,-70.6275,2D/1B,2500,0,40,30,venta,departamento
+4852788,"Edificio Sol Mundo - Vicuna Mackenna/nub, Santiago",-33.4665,-70.6275,2D/1B,2500,0,40,30,venta,departamento
+4852790,"Edificio Sol Mundo - Vicuna Mackenna/nub, Santiago",-33.4665,-70.6275,2D/1B,2500,0,40,30,venta,departamento
+4852792,"Edificio Sol Mundo - Vicuna Mackenna/nub, Santiago",-33.4665,-70.6275,2D/1B,2500,0,40,30,venta,departamento
+4852794,"Edificio Sol Mundo - Vicuna Mackenna/nub, Santiago",-33.4665,-70.6275,2D/1B,2500,0,40,30,venta,departamento
+4402477,"Metro Ñuble, Santiago",-33.47039,-70.62599,1D/1B,2500,0,33.52,36.48,venta,departamento
+4360547,"Santa Elena 1722, Santiago",-33.46649,-70.62807,3D/2B,2500,0,56,56,venta,departamento
+4488527,"Blanco Encalada / Club Hipico, Santiago",-33.45724,-70.66598,2D/1B,2500,0,45,47,venta,departamento
+4516313,"San Isidro 96 - Departamento 1310, Santiago",-33.44464,-70.64426,1D/1B,2500,0,30,32,venta,departamento
+4552724,"Lord Cochrane // Tarapacá, Santiago",-33.4484,-70.6553,1D/1B,2500,0,41,41,venta,departamento
+4558898,"MARIO KREUTZBERGER / SAN MARTIN, Santiago",-33.4359,-70.659,1D/1B,2500,0,34,34,venta,departamento
+4611484,"AGUSTINAS / MANUEL RODRIGUEZ, Santiago",-33.44159,-70.65908,2D/2B,2500,0,52,54,venta,departamento
+4626443,"Monjitas 740, Santiago",-33.43713,-70.64773,1D/1B,2500,0,35,35,venta,departamento
+4656974,"Avenida Brasil 453, Santiago",-33.4393,-70.66464,2D/2B,2500,0,41,41,venta,departamento
+4667686,"Zenteno 1490, Santiago",-33.46588,-70.64981,2D/1B,2500,0,43,43,venta,departamento
+4816351,"Parque Almagro - San Diego/Eleuterio Ram, Santiago",-33.4495,-70.6507,1D/1B,2500,0,30,43,venta,departamento
+4683603,"VICUNA MACKENNA CON ARGOMEDO, Santiago",-33.45354,-70.65641,2D/1B,2500,0,46,46,venta,departamento
+4697272,"METRO TOESCA, Santiago",-33.45353,-70.65672,1D/1B,2500,0,34,34,venta,departamento
+4707826,"Santa Victoria / Santa Isabel, Santiago",-33.44894,-70.64268,1D/1B,2500,0,30,30,venta,departamento
+4728259,"METRO SANTA LUCIA, Santiago",-33.4489,-70.6427,1D/1B,2500,0,30,35,venta,departamento
+4732985,"Monjitas 740, Santiago",-33.43713,-70.64773,1D/1B,2500,0,35,38,venta,departamento
+4754913,"Mario Kreutzberger 1520, Santiago",-33.4359,-70.659,1D/1B,2500,0,34,102,venta,departamento
+4986431,"Villasana, Quinta Normal",-33.4313,-70.6882,3D/1B,2500,0,47,49,venta,departamento
+4959606,"General Gambino 3200, Conchalí",-33.39425,-70.6608,3D/2B,2500,0,68,68,venta,departamento
+4643789,"La Palmilla/General Gandino, Conchalí",-33.3925,-70.6642,3D/1B,2500,0,62,68,venta,departamento
+4965290,"BELISARIO PRATS/METRO HOAPITALES, Independencia",-33.4145,-70.6545,3D/1B,2500,0,56,68,venta,departamento
+4702317,"TITAN / COSMOS, Estación Central",-33.4594,-70.7035,3D/2B,2500,0,58,60,venta,departamento
+4835258,"Depto 2d 2b Con Estacionamiento Conde Del Maule 4175 - Departamento 300, Estación Central",-33.45304,-70.69336,2D/2B,2500,0,46,50.9,venta,departamento
+4898202,"Metro San Alberto Hurtado - Toro Mazotte, Estación Central",-33.4547,-70.692,2D/2B,2500,0,46,46,venta,departamento
+4970591,"A Pasos De Estación De Metro Cerro Blanco, Recoleta",-33.40633,-70.63952,1D/1B,2500,0,43,43,venta,departamento
+4891976,"AVENIDA PERU, Recoleta",-33.4204,-70.6407,2D/2B,2500,0,42,45,venta,departamento
+4800028,"Av La Paz / Juarez Larga, Recoleta",-33.42551,-70.65105,2D/1B,2500,0,58,60,venta,departamento
+5041089,"Avenida Independencia 810 - Departamento 1316, Independencia",-33.42174,-70.65573,2D/1B,2500,0,46,48,venta,departamento
+2720753,"Vicuña Mackeña / Coquimbo, Santiago",-33.45304,-70.63082,2D/1B,2500,0,43,43,venta,departamento
+5019939,"Av Padre Hurtado, Maipú",-33.5218,-70.7562,3D/2B,2500,0,55,60,venta,departamento
+3602176,"Carmen Con Matta Futuro Metro A Una Cuadra, Santiago",-33.45823,-70.63946,2D/1B,2500,0,44,46,venta,departamento
+4015589,"San Isidro - Metro Santa Lucia, Santiago",-33.44464,-70.64426,1D/1B,2500,0,30,32,venta,departamento
+4169344,"Portugal / Metro Irarrazabal, Santiago",-33.45451,-70.63396,1D/1B,2500,0,27.53,27.53,venta,departamento
+4178984,"Metro Irarrázaval - Portugal, Santiago",-33.4545,-70.6339,1D/1B,2500,0,37,40,venta,departamento
+4219912,"CARMEN / SANTA VICTORIA 492, Santiago",-33.44871,-70.64178,2D/1B,2500,0,46,47.7,venta,departamento
+5035361,"Santa Isabel / Arturo Prat, Santiago",-33.45112,-70.64886,2D/1B,2500,0,44,44,venta,departamento
+5036923,"Parque Los Reyes - Chacabuco-Mapocho, Santiago",-33.4311,-70.6793,3D/2B,2500,0,49,44,venta,departamento
+5036925,"Parque Los Reyes - Mapocho, Santiago",-33.4314,-70.6749,2D/1B,2500,0,46,48,venta,departamento
+5034529,"METRO STA ANA, EST Y BOD, Santiago",-33.4371,-70.6593,1D/1B,2500,0,30,31,venta,departamento
+4965290,"BELISARIO PRATS/METRO HOAPITALES, Independencia",-33.4145,-70.6545,3D/1B,2500,0,56,31,venta,departamento
+4702317,"TITAN / COSMOS, Estación Central",-33.4594,-70.7035,3D/2B,2500,0,58,60,venta,departamento
+4835258,"Depto 2d 2b Con Estacionamiento Conde Del Maule 4175 - Departamento 300, Estación Central",-33.45304,-70.69336,2D/2B,2500,0,46,50.9,venta,departamento
+4898202,"Metro San Alberto Hurtado - Toro Mazotte, Estación Central",-33.4547,-70.692,2D/2B,2500,0,46,46,venta,departamento
+4970591,"A Pasos De Estación De Metro Cerro Blanco, Recoleta",-33.40633,-70.63952,1D/1B,2500,0,43,43,venta,departamento
+4891976,"AVENIDA PERU, Recoleta",-33.4204,-70.6407,2D/2B,2500,0,42,45,venta,departamento
+4800028,"Av La Paz / Juarez Larga, Recoleta",-33.42551,-70.65105,2D/1B,2500,0,58,60,venta,departamento
+5041089,"Avenida Independencia 810 - Departamento 1316, Independencia",-33.42174,-70.65573,2D/1B,2500,0,46,48,venta,departamento
+2720753,"Vicuña Mackeña / Coquimbo, Santiago",-33.45304,-70.63082,2D/1B,2500,0,43,43,venta,departamento
+5019939,"Av Padre Hurtado, Maipú",-33.5218,-70.7562,3D/2B,2500,0,55,60,venta,departamento
+3602176,"Carmen Con Matta Futuro Metro A Una Cuadra, Santiago",-33.45823,-70.63946,2D/1B,2500,0,44,46,venta,departamento
+4015589,"San Isidro - Metro Santa Lucia, Santiago",-33.44464,-70.64426,1D/1B,2500,0,30,32,venta,departamento
+4169344,"Portugal / Metro Irarrazabal, Santiago",-33.45451,-70.63396,1D/1B,2500,0,27.53,27.53,venta,departamento
+4178984,"Metro Irarrázaval - Portugal, Santiago",-33.4545,-70.6339,1D/1B,2500,0,37,40,venta,departamento
+4219912,"CARMEN / SANTA VICTORIA 492, Santiago",-33.44871,-70.64178,2D/1B,2500,0,46,47.7,venta,departamento
+4865655,"ELEUTERIO RAMIREZ, Santiago",-33.4494,-70.6515,1D/1B,2500,0,35,35,venta,departamento
+4890630,"Padre Miguel De Olivares / Corte Suprema, Santiago",-33.44906,-70.656,1D/1B,2500,0,35.8,36,venta,departamento
+4851456,"METRO SANTA LUCÍA, Santiago",-33.4446,-70.6428,1D/1B,2500,0,30,30,venta,departamento
+4852785,"Edificio Sol Mundo - Vicuna Mackenna/nub, Santiago",-33.4665,-70.6275,2D/1B,2500,0,40,30,venta,departamento
+4852787,"Edificio Sol Mundo - Vicuna Mackenna/nub, Santiago",-33.4665,-70.6275,2D/1B,2500,0,40,30,venta,departamento
+4852788,"Edificio Sol Mundo - Vicuna Mackenna/nub, Santiago",-33.4665,-70.6275,2D/1B,2500,0,40,30,venta,departamento
+4852790,"Edificio Sol Mundo - Vicuna Mackenna/nub, Santiago",-33.4665,-70.6275,2D/1B,2500,0,40,30,venta,departamento
+4852792,"Edificio Sol Mundo - Vicuna Mackenna/nub, Santiago",-33.4665,-70.6275,2D/1B,2500,0,40,30,venta,departamento
+4852794,"Edificio Sol Mundo - Vicuna Mackenna/nub, Santiago",-33.4665,-70.6275,2D/1B,2500,0,40,30,venta,departamento
+4402477,"Metro Ñuble, Santiago",-33.47039,-70.62599,1D/1B,2500,0,33.52,36.48,venta,departamento
+5003923,"Alonso De Ovalle, Santiago",-33.4457,-70.6479,1D/1B,2500,0,32,35,venta,departamento
+5009207,"Metro Franklin - General Gana/San Diego, Santiago",-33.471,-70.6481,2D/1B,2500,0,33,33,venta,departamento
+5010551,"Barrio Republica /Av. España-3D-2B/63M2, Santiago",-33.45396,-70.67069,3D/2B,2500,0,65,65,venta,departamento
+4971364,"Morandé 617, Santiago",-33.43628,-70.65407,1D/1B,2500,0,44,44,venta,departamento
+4967222,"SAN ISIDRO 250, Santiago",-33.44681,-70.64357,1D/1B,2500,0,28,28,venta,departamento
+4968928,"CATEDRAL / SAN MARTIN, Santiago",-33.43806,-70.65833,1D/1B,2500,0,54,55,venta,departamento
+4962204,"Irarrazabal, Santiago",-33.45315,-70.63177,1D/1B,2500,0,30,30,venta,departamento
+4962684,"Carmen/Artemio Gutierrez, Santiago",-33.4578,-70.6401,2D/1B,2500,0,40,30,venta,departamento
+4963121,"Club Hípico, Santiago",-33.464,-70.6648,2D/2B,2500,0,59,59,venta,departamento
+4984628,"A PASOS DE METRO UNIVERSIDAD DE CHILE, Santiago",-33.44683,-70.65156,1D/1B,2500,0,32,36,venta,departamento
+4983658,"Lira 140, Santiago, Santiago",-33.44451,-70.64031,1D/1B,2500,0,32,32,venta,departamento
+4979440,"Rosas / San Martin, Santiago",-33.4359,-70.659,1D/1B,2500,0,30,32,venta,departamento
+4991818,"San Isidro. Metro Santa Lucía, Santiago",-33.44464,-70.64426,1D/1B,2500,0,40,42,venta,departamento
+4990193,"Santo Domingo / Metro Bellas Artes, Santiago",-33.4311,-70.6538,1D/1B,2500,0,31,31,venta,departamento
+4902629,"VICUÑA MACKENA / SANTA ISABEL, Santiago",-33.44735,-70.63208,1D/1B,2500,0,35,35,venta,departamento
+4912608,"Santa Rosa / Santa Isabel, Santiago",-33.46912,-70.642,1D/1B,2500,0,38.29,40.29,venta,departamento
+4905202,"General Bulnes 546 - Departamento 411, Santiago",-33.43876,-70.67057,1D/1B,2500,0,35,35,venta,departamento
+4906670,"Cercano A Metro Toesca, Santiago",-33.45393,-70.66293,2D/2B,2500,0,36,38,venta,departamento
+4917348,"Proyecto Zenteno Efficient - 2D2B - Parq, Santiago",-33.469,-70.6511,2D/2B,2500,0,36,38,venta,departamento
+4918550,"DIECIOCHO 620 - Departamento 1223, Santiago",-33.45393,-70.65668,1D/1B,2500,0,34,34,venta,departamento
+4919845,"STUDIO ZENTENO, METRO U DE CHILE Y MONED, Santiago",-33.447,-70.6521,1D/1B,2500,0,30,30,venta,departamento
+4933939,"Mario Kreutzberger / San Martin, Santiago",-33.436,-70.65874,1D/1B,2500,0,32,64,venta,departamento
+4948676,"Plaza Paris, Santiago",-33.4452,-70.6491,1D/1B,2500,0,44,47,venta,departamento
+4949673,"Marcoleta / San Isidro, Santiago",-33.4437,-70.64398,1D/1B,2500,0,38,38,venta,departamento
+4950061,"San Martín / San Pablo, Santiago",-33.43513,-70.65859,1D/1B,2500,0,32,36,venta,departamento
+4626443,"Monjitas 740, Santiago",-33.43713,-70.64773,1D/1B,2500,0,35,35,venta,departamento
+4656974,"Avenida Brasil 453, Santiago",-33.4393,-70.66464,2D/2B,2500,0,41,41,venta,departamento
+4667686,"Zenteno 1490, Santiago",-33.46588,-70.64981,2D/1B,2500,0,43,43,venta,departamento
+4816351,"Parque Almagro - San Diego/Eleuterio Ram, Santiago",-33.4495,-70.6507,1D/1B,2500,0,30,43,venta,departamento
+4683603,"VICUNA MACKENNA CON ARGOMEDO, Santiago",-33.45354,-70.65641,2D/1B,2500,0,46,46,venta,departamento
+4697272,"METRO TOESCA, Santiago",-33.45353,-70.65672,1D/1B,2500,0,34,34,venta,departamento
+4707826,"Santa Victoria / Santa Isabel, Santiago",-33.44894,-70.64268,1D/1B,2500,0,30,30,venta,departamento
+4728259,"METRO SANTA LUCIA, Santiago",-33.4489,-70.6427,1D/1B,2500,0,30,35,venta,departamento
+4732985,"Monjitas 740, Santiago",-33.43713,-70.64773,1D/1B,2500,0,35,38,venta,departamento
+4754913,"Mario Kreutzberger 1520, Santiago",-33.4359,-70.659,1D/1B,2500,0,34,102,venta,departamento
+5003153,"Dardignac 28, Santiago",-33.43376,-70.6364,1D/1B,2500,0,42,90,venta,departamento
+4963794,"San Antonio 630, Santiago",-33.43564,-70.64889,2D/2B,2500,0,50,50,venta,departamento
+4647222,"Metro Toesca - Santa Isabel, Santiago",-33.4532,-70.6576,2D/2B,2500,0,41,43,venta,departamento
+5034075,"Lourdes-Instituto Barros Arana - METRO G, Quinta Normal",-33.4377,-70.6885,3D/1B,2500,0,41,43,venta,departamento
+4967551,"Metro Protectora - Luis Matte Larrain Po, Puente Alto",-33.5865,-70.5812,2D/1B,2500,0,53,56,venta,departamento
+5039745,"Santa Isabel / Arturo Prat, Santiago",-33.45076,-70.64864,2D/1B,2501,0,48,48,venta,departamento
+4978569,"Metro Trinidad, La Florida",-33.5433,-70.5919,2D/1B,2501,0,46,48,venta,departamento
+5005092,"LOS INDUSTRIALES // PEDRO DE VALDIVIA, Macul",-33.4873,-70.6061,2D/1B,2501,0,65,70,venta,departamento
+5000938,"Av La Florida 10269, La Florida",-33.5511,-70.5668,3D/1B,2501,0,58,58,venta,departamento
+5032933,"OPORTUNIDAD DPTO. 2D / 1B TORO MAZOTE Nº 76, Estación Central",-33.45531,-70.69161,2D/1B,2501,0,42,42,venta,departamento
+5036977,"Santa Isabel / Arturo Prat, Santiago",-33.45076,-70.64864,2D/1B,2501,0,48,48,venta,departamento
+5031244,"Vital Apoquindo / Villa La Escuela, Las Condes",-33.4178,-70.53064,3D/1B,2501,0,70,120,venta,departamento
+5033364,"158.815 - A 2 Cuadras De Alameda, Estación Central",-33.45908,-70.699,2D/2B,2501,0,42,42,venta,departamento
+5032511,"Merced 562, Santiago",-33.43798,-70.64498,1D/1B,2501,0,32,32,venta,departamento
+5030022,"San Francisco/Santa Isabel, Santiago",-33.4505,-70.6471,1D/1B,2501,0,35,32,venta,departamento
+5026638,"Teatinos, Santiago",-33.43353,-70.65539,1D/1B,2501,0,25,25,venta,departamento
+4901815,"Av. Independencia/Frente Calle Colon, Independencia",-33.4219,-70.6553,2D/1B,2501,0,44,25,venta,departamento
+4765656,"AV. LA FLORIDA / DEPARTAMENTAL, La Florida",-33.51818,-70.58315,3D/1B,2502,0,60,60,venta,departamento
+5025370,"Dep. 2D / 2B Tipo Mariposa Boca Metro Ecuador ., Estación Central",-33.45546,-70.69994,2D/2B,2502,0,52,55,venta,departamento
+5024824,"Marín 395 - Departamento 102, Santiago",-33.44691,-70.63953,1D/1B,2502,0,45,45,venta,departamento
+5023070,"Alejandro Fleming 9809, Las Condes",-33.42429,-70.5264,2D/1B,2502,0,55,58,venta,departamento
+5023090,"EL LIBANO / DR, AMADOR NEGHME RODRIGUEZ, Macul",-33.49919,-70.59241,3D/1B,2502,0,64,88,venta,departamento
+5024288,"Depto En Venta, 3 Dormitorios, 2 Baños, Diego Portales 1486, Altos De La Florida II, La Florida",-33.56008,-70.56879,3D/2B,2502,0,62,68,venta,departamento
+4855602,"Metro Padre Hurtado Con Estac 4175 - Departamento 300, Estación Central",-33.45304,-70.69336,2D/2B,2502,0,46,50.9,venta,departamento
+5011777,"Nicasio Retamales, Estación Central",-33.4576,-70.6878,2D/2B,2502,0,68,68,venta,departamento
+5020367,"Metro Santa Lucía/Santa Isabel / Santa R, Santiago",-33.4485,-70.6451,2D/2B,2502,0,60,68,venta,departamento
+5000312,"Av. Américo Vespucio/Av. Grecia, Peñalolén",-33.4675,-70.576,3D/1B,2502,0,63,68,venta,departamento
+4221282,"Dardignac, Recoleta",-33.43327,-70.63569,1D/1B,2502,0,54,54,venta,departamento
+4880453,"DEPTO A MINUTOS DEL METRO LAGUNA SUR., Pudahuel",-33.4658,-70.73773,3D/2B,2502,0,70,70,venta,departamento
+5013904,"Carlos Pezoa Véliz 143, Estación Central",-33.45536,-70.70286,2D/1B,2502,0,45,47,venta,departamento
+4577843,"SAN ANTONIO/ESMERALDA, Santiago",-33.4355,-70.6488,2D/2B,2502,0,46,47,venta,departamento
+5009208,"Metro Santa Ana - Huérfanos/Compañía, Santiago",-33.4406,-70.6606,1D/1B,2503,0,32,36,venta,departamento
+4543361,"Subercaseaux, San Miguel",-33.4794,-70.649,3D/2B,2503,0,51,56,venta,departamento
+5008218,"San Pablo / Metro Gruta De Lourdes, Quinta Normal",-33.43803,-70.68816,3D/1B,2503,0,50,52,venta,departamento
+4962662,"AV. DEPARTAMENTAL/VESPUCIO/METRO MACUL, La Florida",-33.51,-70.592,3D/1B,2503,0,64,52,venta,departamento
+4325927,"Metro Parque O""Higgins / Arturo Prat, Santiago",-33.45825,-70.64812,2D/1B,2503,0,60,60,venta,departamento
+4138686,"Metro República, Santiago",-33.44768,-70.66981,2D/2B,2503,0,50,50,venta,departamento
+3125352,"ARGOMEDO / VICUÑA MACKENNA, Santiago",-33.44898,-70.63284,2D/1B,2503,0,38,39,venta,departamento
+4605594,"Americo Vespucio / Departamental, La Florida",-33.51339,-70.59149,3D/1B,2503,0,70,74,venta,departamento
+5009704,"Dep. 2D / 2B Tipo Mariposa Boca Metro Ecuador ., Estación Central",-33.45546,-70.69994,2D/2B,2503,0,52,55,venta,departamento
+4940884,"METRO SAN ALBERTO HURTADO / AV. SAN ALBERTO HURTADO, Estación Central",-33.45593,-70.68966,2D/1B,2503,0,45,92,venta,departamento
+4723074,"CHILOE/SALESIANOS, San Miguel",-33.4959,-70.6483,2D/2B,2503,0,48,55,venta,departamento
+4979790,"DIEGO PORTALES 1408, La Florida",-33.56091,-70.56897,3D/2B,2503,0,57,59,venta,departamento
+5000272,"METRO GRECIA, Peñalolén",-33.4689,-70.576,3D/1B,2503,0,60,60,venta,departamento
+4613708,"Dep. 2D / 2B Tipo Mariposa Boca Metro Ecuador ., Estación Central",-33.45546,-70.69994,2D/2B,2503,0,52,55,venta,departamento
+5000792,"Av Diego Portales / Av Padre Alberto Hurtado, Estación Central",-33.44467,-70.69164,3D/2B,2503,0,110,114,venta,departamento
+4920492,"San Pablo 1353 - Departamento 311, Santiago",-33.43406,-70.65686,2D/1B,2503,0,54,56,venta,departamento
+4959243,"San Pablo 2002, Santiago",-33.43489,-70.66508,2D/2B,2503,0,55,55,venta,departamento
+4954895,"General Velasquez, Quinta Normal",-33.43378,-70.69488,3D/2B,2503,0,74,74,venta,departamento
+4999927,"Avenida Libertador Bernardo O'Higgins 4272, Estación Central",-33.45478,-70.69419,3D/1B,2503,0,65,65,venta,departamento
+4428847,"METRO ROJAS MAGALLANES-EXCELENTE DEPARTAMENTO EN LA FLORIDA, La Florida",-33.53325,-70.59277,3D/1B,2504,0,59,65,venta,departamento
+4405588,"CATEDRAL / CUETO, Santiago",-33.4395,-70.6725,2D/2B,2504,0,41,43,venta,departamento
+4508436,"Santa Isabel, Santiago",-33.4497,-70.6412,2D/1B,2504,0,44,46,venta,departamento
+4510613,"Alameda 4499, Estación Central",-33.4549,-70.697,3D/2B,2504,0,65,68,venta,departamento
+4567067,"Carrascal, Quinta Normal",-33.4238,-70.69,3D/1B,2504,0,50,52,venta,departamento
+4137699,"EL MOLINO / VIVACETA, Independencia",-33.4183,-70.6664,3D/1B,2504,0,48,52,venta,departamento
+4714715,"Brasil / General Mackenna, Santiago",-33.4338,-70.6646,2D/2B,2504,0,54,56,venta,departamento
+4713151,"Regimiento Bellavista - Metro Conchalí, Conchalí",-33.3958,-70.6613,3D/2B,2504,0,56,57,venta,departamento
+4759333,"Teresa Vial 1235, San Miguel",-33.49299,-70.65449,1D/1B,2504,0,44,44,venta,departamento
+4737731,"AMUNATEGUI/METRO SANTA ANA, Estación Central",-33.4367,-70.6569,2D/1B,2504,0,40,44,venta,departamento
+4773654,"METRO HOSPITALES, DEPTO, EN 2° PISO, CALLE AMALIA ERRÁZURIZ, Independencia",-33.42001,-70.65727,2D/2B,2504,0,49.8,55.85,venta,departamento
+4773658,"METRO HOSPITALES, DPTO. EN 2° PISO CALLE AMALIA ERRÁZURIZ, Independencia",-33.42001,-70.65727,2D/2B,2504,0,48.96,53.95,venta,departamento
+4996664,"METRO GRECIA, Peñalolén",-33.46816,-70.57562,3D/1B,2504,0,66,66,venta,departamento
+4996688,"DR. AMADOR NEGHME RODRÍGUEZ / EL LIBANO, Macul",-33.49922,-70.59192,3D/1B,2504,0,64,88,venta,departamento
+4976323,"Metro Santa Lucía, Santiago",-33.44424,-70.6456,2D/2B,2504,0,42,42,venta,departamento
+4508436,"Santa Isabel, Santiago",-33.4497,-70.6412,2D/1B,2504,0,44,46,venta,departamento
+4510613,"Alameda 4499, Estación Central",-33.4549,-70.697,3D/2B,2504,0,65,68,venta,departamento
+4567067,"Carrascal, Quinta Normal",-33.4238,-70.69,3D/1B,2504,0,50,52,venta,departamento
+4137699,"EL MOLINO / VIVACETA, Independencia",-33.4183,-70.6664,3D/1B,2504,0,48,52,venta,departamento
+4714715,"Brasil / General Mackenna, Santiago",-33.4338,-70.6646,2D/2B,2504,0,54,56,venta,departamento
+4713151,"Regimiento Bellavista - Metro Conchalí, Conchalí",-33.3958,-70.6613,3D/2B,2504,0,56,57,venta,departamento
+4759333,"Teresa Vial 1235, San Miguel",-33.49299,-70.65449,1D/1B,2504,0,44,44,venta,departamento
+4737731,"AMUNATEGUI/METRO SANTA ANA, Estación Central",-33.4367,-70.6569,2D/1B,2504,0,40,44,venta,departamento
+4773654,"METRO HOSPITALES, DEPTO, EN 2° PISO, CALLE AMALIA ERRÁZURIZ, Independencia",-33.42001,-70.65727,2D/2B,2504,0,49.8,55.85,venta,departamento
+4773658,"METRO HOSPITALES, DPTO. EN 2° PISO CALLE AMALIA ERRÁZURIZ, Independencia",-33.42001,-70.65727,2D/2B,2504,0,48.96,53.95,venta,departamento
+4996664,"METRO GRECIA, Peñalolén",-33.46816,-70.57562,3D/1B,2504,0,66,66,venta,departamento
+4996688,"DR. AMADOR NEGHME RODRÍGUEZ / EL LIBANO, Macul",-33.49922,-70.59192,3D/1B,2504,0,64,88,venta,departamento
+4976323,"Metro Santa Lucía, Santiago",-33.44424,-70.6456,2D/2B,2504,0,42,42,venta,departamento
+4970157,"Santa Isabel / Arturo Prat, Santiago",-33.45076,-70.64864,2D/1B,2504,0,48,48,venta,departamento
+4971988,"CALLE PICTON / AV. LO ESPEJO, El Bosque",-33.54584,-70.68499,3D/1B,2504,0,200,200,venta,departamento
+4972049,"Gamero / Escanilla, Independencia",-33.4212,-70.66029,3D/2B,2504,0,75,75,venta,departamento
+4955655,"AMERICO VESPUCIO- SANTA ELENA, Maipú",-33.47706,-70.75759,2D/2B,2505,0,43,45,venta,departamento
+4560562,"Zenteno 1490 - Departamento 1001, Santiago",-33.46588,-70.64981,2D/1B,2505,0,44,44,venta,departamento
+4560578,"Zenteno 1490 - Departamento 810, Santiago",-33.46588,-70.64981,2D/1B,2505,0,41,41,venta,departamento
+4983808,"ATENCION INVERSIONISTAS!!!!! DEPARTAMENTO ARRENDADO !!!!!, Macul",-33.49175,-70.61753,1D/1B,2505,0,28,30,venta,departamento
+4936761,"Maravilloso Departamento En La Cisterna, Entrega Inmediata, La Cisterna",-33.54181,-70.67385,2D/2B,2506,0,48,48,venta,departamento
+4328937,"Trinidad Ramirez / Toconao, La Cisterna",-33.5429,-70.6691,1D/1B,2506,0,4.089,4.094,venta,departamento
+4214517,"DEPARTAMENTO EN AVENIDA GRECIA 00, Ñuñoa",-33.46924,-70.58444,3D/1B,2508,0,75,77,venta,departamento
+4926367,"Gran Avenida/varas Mena, San Miguel",-33.5092,-70.6561,2D/1B,2510,0,63,77,venta,departamento
+5002361,"Alejandro Vial 7480, La Cisterna",-33.52562,-70.65323,3D/1B,2510,0,66,70,venta,departamento
+5037063,"José Miguel Carrera 130, La Florida",-33.55127,-70.58918,3D/1B,2510,0,51,54,venta,departamento
+4846404,"Metro Ecuador, Estación Central",-33.45427,-70.69806,2D/1B,2511,0,41.2,43.6,venta,departamento
+4404022,"Eyzaguirre 85, San Bernardo",-33.58681,-70.70316,3D/1B,2512,0,70,70,venta,departamento
+4786898,"Avenida Santa Rosa / Eleuterio Ramírez / Metro Santa Lucia, Santiago",-33.44758,-70.64541,2D/2B,2514,0,48,52,venta,departamento
+4852764,"Proyecto Nataniel Cox - 1D1B - Santiago, Santiago",-33.454,-70.6527,1D/1B,2515,0,48,52,venta,departamento
+4417414,"San Pablo 3900 - Departamento 1410, Quinta Normal",-33.43757,-70.68854,3D/2B,2519,0,59.01,61.5,venta,departamento
+4934307,"Álvarez De Toledo 880 - Departamento 1808, San Miguel",-33.49098,-70.64742,2D/1B,2520,0,43,45,venta,departamento
+4961359,"Santa Isabel 797, Santiago",-33.45066,-70.6467,2D/1B,2520,0,44,44,venta,departamento
+3478829,"Avenida Salesianos 1440, San Miguel",-33.49072,-70.65866,1D/1B,2520,0,33.94,35.74,venta,departamento
+4685686,"Av. La Paz, Región Metropolitana De Sant, Recoleta",-33.4256,-70.6511,2D/2B,2520,0,55,58,venta,departamento
+5013554,"Santiago Centro. Primer Semestre 2021. Dividendo: $270.000 – Arriendo: $298.925. 1D+1B., Santiago",-33.47055,-70.66158,1D/1B,2520,0,34,34,venta,departamento
+5021276,"Santa Isabel 797, Santiago",-33.45066,-70.6467,2D/1B,2520,0,40,44,venta,departamento
+4851500,"CALLE MARIN 395, Santiago",-33.44624,-70.63862,1D/1B,2520,0,45,45,venta,departamento
+4717719,"Goycolea 677, La Cisterna",-33.54176,-70.65801,3D/2B,2521,0,59,59,venta,departamento
+4701503,"Avda La Paz / Dávila Baeza, Recoleta",-33.42551,-70.65105,2D/2B,2521,0,56,58,venta,departamento
+4826174,"Los Industriales S, Macul",-33.4864,-70.60518,3D/2B,2522,0,80,163,venta,departamento
+3673865,"Inversionistas: Departamentos En Ñuñoa Donde El Arriendo Cubre Todo O Gran Parte Del Dividendo En Ñuñoa, Jorge Pedro Alessandri, Ñuñoa",-33.46317,-70.59829,1D/1B,2523,0,33,38,venta,departamento
+4981215,"Vicuña Mackenna / Rodrigo De Araya, San Joaquín",-33.4774,-70.6229,2D/2B,2525,0,50,52,venta,departamento
+4748238,"Garcias Reyes 8, Santiago",-33.44828,-70.67043,2D/2B,2525,0,40,42,venta,departamento
+4981682,"Metro Camino Agricola, Macul",-33.49044,-70.61551,1D/1B,2526,0,38,41,venta,departamento
+4144413,"34 4 - Departamento 42, Ñuñoa",-33.47117,-70.58167,2D/1B,2526,0,72,72,venta,departamento
+4967593,"General Mackenna, Santiago",-33.4334,-70.6585,2D/1B,2530,0,49,44,venta,departamento
+4769849,"Escuela Agrícola 1710, Macul",-33.49062,-70.61582,1D/1B,2530,0,26,26,venta,departamento
+4722309,"Bella Vista - Baquedano, Providencia",-33.4339,-70.6367,1D/1B,2530,0,35,41,venta,departamento
+4984002,"José Miguel Carrera 130, La Florida",-33.55127,-70.58918,3D/1B,2530,0,51,54,venta,departamento
+4769849,"Escuela Agrícola 1710, Macul",-33.49062,-70.61582,1D/1B,2530,0,26,26,venta,departamento
+4722309,"Bella Vista - Baquedano, Providencia",-33.4339,-70.6367,1D/1B,2530,0,35,41,venta,departamento
+4762278,"Avenida Brasil 875, Santiago",-33.43379,-70.66461,2D/1B,2532,0,52,52,venta,departamento
+5034833,"Proyecto Lo Ovalle - 2D1B - La Cisterna, La Cisterna",-33.3528,-70.7404,2D/1B,2533,0,52,52,venta,departamento
+5034846,"Proyecto General Freire 80 - 2D1B - La C, La Cisterna",-33.5208,-70.6586,2D/1B,2533,0,52,52,venta,departamento
+5031110,"BARRIO UNIVERSITARIO / RENTABILIDAD 8% / 3D-2B / 65 Mts2, Santiago",-33.45391,-70.6696,3D/2B,2533,0,65,65,venta,departamento
+4859420,"Amplio Depto 2D/1B - Av Matta, Santiago",-33.4597,-70.6461,2D/1B,2535,0,63,65,venta,departamento
+4974483,"Calle Rosas 2999, Santiago",-33.46912,-70.642,3D/2B,2535,0,55,55,venta,departamento
+4985927,"METRO GRUTA, Quinta Normal",-33.43743,-70.6886,3D/1B,2536,0,52,52,venta,departamento
+5036877,"LOS TRES ANTONIOS, Ñuñoa",-33.46445,-70.604,2D/1B,2536,0,58,58,venta,departamento
+4970124,"Vital Apoquindo / Fleming, Las Condes",-33.42344,-70.52888,2D/1B,2537,0,60,60,venta,departamento
+5008230,"San Isidro 19, Santiago",-33.44299,-70.64496,1D/1B,2539,0,28,28,venta,departamento
+4090567,"Hipódromo Chile 1701, Independencia",-33.40682,-70.66414,2D/2B,2539,0,55,59.6,venta,departamento
+3711037,"Dardiñac / Pio Nono, Recoleta",-33.43366,-70.6361,1D/1B,2539,0,39,44,venta,departamento
+4705454,"Americo Vespucio 2875, Macul",-33.48107,-70.581,3D/2B,2539,0,60,60,venta,departamento
+4992387,"San Pablo 2002, Santiago",-33.43489,-70.66508,2D/1B,2539,0,52,57,venta,departamento
+4834852,"Barrio Londres - San Francisco/Eleuterio, Santiago",-33.4483,-70.6469,2D/1B,2539,0,39,40,venta,departamento
+4940538,"Diegos Portales, La Florida",-33.5618,-70.5727,3D/2B,2540,0,56,56,venta,departamento
+4705295,"MAC IVER - ALAMEDA, Santiago",-33.44239,-70.64645,1D/1B,2540,0,40,40,venta,departamento
+4659788,"Vicuña Mackenna / Vicente Valdes, La Florida",-33.52623,-70.59784,1D/1B,2540,0,35,35,venta,departamento
+4274351,"SAN FRANCISCO / TARAPACA, Santiago",-33.45354,-70.65641,1D/1B,2540,0,30,35,venta,departamento
+4626748,"Avenida Manuel Rodríguez Sur 677 - Departamento 902, Santiago",-33.45482,-70.65854,1D/1B,2540,0,48,52,venta,departamento
+4613300,"Calle San Ignacio De Loyola 1286, Santiago",-33.46258,-70.65509,2D/2B,2541,0,60,60,venta,departamento
+4578530,"Dardinag 28, Santiago",-33.43346,-70.63646,1D/1B,2541,0,36,40,venta,departamento
+4973246,"Obispo Manuel Umaña, Estación Central",-33.4519,-70.685,2D/2B,2545,0,48,50,venta,departamento
+4973246,"Obispo Manuel Umaña, Estación Central",-33.4519,-70.685,2D/2B,2545,0,48,50,venta,departamento
+4379953,"Martinez De Rosas 3550, Quinta Normal",-33.42671,-70.699,3D/1B,2549,0,54,55,venta,departamento
+4942867,"Barrio Republica /Av. España-3D-2B/63M2, Santiago",-33.45382,-70.67031,3D/1B,2550,0,63,63,venta,departamento
+4921617,"Vicuña Mackenna 1231, Ñuñoa",-33.45735,-70.62952,2D/2B,2550,0,43,46,venta,departamento
+4818838,"Carlos Dittborn/San Eugenio, Ñuñoa",-33.4671,-70.6236,1D/1B,2550,0,30,46,venta,departamento
+4852760,"General Prieto/Barnechea - Parque De Los, Independencia",-33.4293,-70.6576,2D/1B,2550,0,30,46,venta,departamento
+4844200,"Avenida Vicuña Mackenna Oriente 6553 - Departamento 1708, La Florida",-33.51473,-70.60448,1D/1B,2550,0,32,34,venta,departamento
+4874407,"Presidente Balmaceda 2088, Santiago",-33.43035,-70.66643,2D/2B,2550,0,55,58,venta,departamento
+4968967,Santiago,-33.46912,-70.642,3D/1B,2550,0,63,126,venta,departamento
+4951086,"Departamento Con AIRBNB Funcionando San Martín, Santiago",-33.43513,-70.65859,1D/1B,2550,0,32,36,venta,departamento
+4380643,"ALVAREZ D TOLEDO // SAN FRANCISCO, San Miguel",-33.4913,-70.6474,2D/2B,2550,0,57,57,venta,departamento
+4438966,"Escuela Agrícola 1710, Macul",-33.49062,-70.61582,2D/1B,2550,0,43,47,venta,departamento
+4442604,"Álvarez De Toledo, San Miguel",-33.49071,-70.64819,2D/2B,2550,0,57.57,57.57,venta,departamento
+4474584,"METRO CIUDAD DEL NIÑO, San Miguel",-33.508,-70.6556,2D/1B,2550,0,56,63,venta,departamento
+4238636,"Gorbea / Almirante Latorre, Santiago",-33.4527,-70.6639,2D/2B,2550,0,43,46,venta,departamento
+4320228,"Av. Recoleta / Juarez Larga, Recoleta",-33.4262,-70.6461,2D/2B,2550,0,60,62,venta,departamento
+4300466,"Arturo Prat / Victoria, Santiago",-33.4646,-70.64687,3D/1B,2550,0,52.8,53,venta,departamento
+4625418,"San Francisco / Tarapaca, Santiago",-33.44742,-70.64668,1D/1B,2550,0,30,32.5,venta,departamento
+4626331,"Estudio Santa Rosa - Alameda 1d/ 1b - Estacionamiento, Santiago",-33.44756,-70.64521,1D/1B,2550,0,43,43,venta,departamento
+3679904,"Amunategui / Metro Santa Ana, Santiago",-33.43589,-70.65696,2D/2B,2550,0,48,48,venta,departamento
+3190985,"EDIFICIOS LA RECOLETA, Recoleta",-33.42551,-70.65105,2D/2B,2550,0,58,58,venta,departamento
+4114252,"TITAN 4870 - Departamento 902-A, Estación Central",-33.45901,-70.70301,3D/1B,2550,0,50,52,venta,departamento
+4757741,"San Isidro 96, Santiago",-33.44464,-70.64426,1D/1B,2550,0,30,32,venta,departamento
+4736663,"Metro Ciudad Del Niño - Gran Avenida, San Miguel",-33.5128,-70.6593,2D/2B,2550,0,46,48,venta,departamento
+4811034,"Sexta Avenida 1150, San Miguel",-33.50938,-70.65788,2D/1B,2550,0,70,70,venta,departamento
+4942867,"Barrio Republica /Av. España-3D-2B/63M2, Santiago",-33.45382,-70.67031,3D/1B,2550,0,63,63,venta,departamento
+4921617,"Vicuña Mackenna 1231, Ñuñoa",-33.45735,-70.62952,2D/2B,2550,0,43,46,venta,departamento
+4818838,"Carlos Dittborn/San Eugenio, Ñuñoa",-33.4671,-70.6236,1D/1B,2550,0,30,46,venta,departamento
+4852760,"General Prieto/Barnechea - Parque De Los, Independencia",-33.4293,-70.6576,2D/1B,2550,0,30,46,venta,departamento
+4844200,"Avenida Vicuña Mackenna Oriente 6553 - Departamento 1708, La Florida",-33.51473,-70.60448,1D/1B,2550,0,32,34,venta,departamento
+4874407,"Presidente Balmaceda 2088, Santiago",-33.43035,-70.66643,2D/2B,2550,0,55,58,venta,departamento
+4968967,Santiago,-33.46912,-70.642,3D/1B,2550,0,63,126,venta,departamento
+4951086,"Departamento Con AIRBNB Funcionando San Martín, Santiago",-33.43513,-70.65859,1D/1B,2550,0,32,36,venta,departamento
+4220162,"Zenteno / Tarapacá (estacionamiento), Santiago",-33.44694,-70.65234,1D/1B,2556,0,35,35,venta,departamento
+4983743,"Carlos Dittborn 1581, Ñuñoa",-33.4656,-70.61531,3D/1B,2557,0,70,71,venta,departamento
+4189594,"Ricardo Cumming 1355, Santiago",-33.42966,-70.66928,2D/2B,2560,0,58,63,venta,departamento
+4978372,"ARTURO PRAT, CON BODEGA!, Santiago",-33.4546,-70.6481,2D/2B,2560,0,56,56,venta,departamento
+4917409,"DPTO. 2D/2B METRO TOESCA CON SANTA ISABEL, Santiago",-33.45337,-70.65708,2D/2B,2560,0,45,45,venta,departamento
+4898949,"VITAL APOQUINDO/FLEMING, Las Condes",-33.4235,-70.529,2D/1B,2563,0,44,45,venta,departamento
+4306795,"Concón 67 - Departamento J 61, Santiago",-33.45624,-70.69587,2D/2B,2565,0,49,49,venta,departamento
+4926631,"A UNA CUADRA DEL METRO SAN ALBERTO HURTA, Estación Central",-33.4524,-70.6895,2D/2B,2568,0,50,50,venta,departamento
+4753629,"Oportunidad! Belisario Prats 2D + 2B + Estacionamiento, Independencia",-33.41041,-70.65485,2D/2B,2570,0,54,58,venta,departamento
+4978734,"Depto 1D+1B+1Est REMODELADO 35 M2 Total Moneda/Autopista Central, Santiago",-33.44321,-70.66097,1D/1B,2570,0,35,35,venta,departamento
+4996413,"Ana Luisa / Gran Avenida, San Miguel",-33.48962,-70.65175,1D/1B,2570,0,40,45,venta,departamento
+5014318,"SAN FRANCISCO/ELEUTERIO RÁMIREZ/ METRO S, Santiago",-33.4483,-70.6469,2D/1B,2570,0,38,45,venta,departamento
+4954328,"Metro Camino Agrícola/Escuela Agricola /, Macul",-33.4907,-70.6156,1D/1B,2570,0,37,40,venta,departamento
+5017247,"RIO JORDAN, Lo Barnechea",-33.3527,-70.5185,3D/1B,2571,0,66,66,venta,departamento
+4346113,"Esmeralda / Santa Elisa, La Cisterna",-33.5197,-70.6567,3D/1B,2572,0,62,62,venta,departamento
+4936771,"Excelente Departamento En La Cisterna, Cercano A Metro Lo Ovalle, La Cisterna",-33.51968,-70.65673,3D/1B,2572,0,62,62,venta,departamento
+4977912,"Lindo Departamento 1 Dormitorio, Santiago",-33.44742,-70.64668,1D/1B,2572,0,34,34,venta,departamento
+4952402,"Gran Avenida Jose Miguel Carrera 5888, San Miguel",-33.50865,-70.65617,2D/2B,2572,0,60,60,venta,departamento
+5022514,"Blanco Garcés 50 - Departamento 72, Estación Central",-33.45216,-70.69805,2D/2B,2572,0,63,67,venta,departamento
+3985303,"Cerca Del Metro O´higgins, Santiago",-33.4653,-70.6491,2D/1B,2572,0,50,50,venta,departamento
+5035979,"STA ISABEL, Santiago",-33.4534,-70.6571,2D/2B,2572,0,44,47,venta,departamento
+5030156,"METRO SANTA ANA / ATENCION INVERSIONISTAS, Santiago",-33.43652,-70.65697,2D/1B,2572,0,40,42,venta,departamento
+5030843,"SANTA ISABEL, Santiago",-33.45354,-70.65641,1D/1B,2572,0,40,35,venta,departamento
+5024547,"Santa Isabel / Lira, Santiago",-33.4479,-70.64013,2D/2B,2573,0,41,42,venta,departamento
+4889164,"Independencia 4599, Conchalí",-33.38606,-70.67885,2D/2B,2573,0,54,54,venta,departamento
+5018229,"Vicuña Mackenna 1751, Santiago",-33.46912,-70.642,3D/2B,2573,0,60,60,venta,departamento
+4798017,"Lord Cochranne / Miguel De Olivares, Santiago",-33.44957,-70.6549,2D/1B,2574,0,48,48,venta,departamento
+5014626,"PISO 2 - DEPARTAMENTO TOTALMENTE REMODELADO EN MODERNO EDIFICIO A PASOS DEL METRO SANTA ANA, Santiago",-33.43565,-70.65874,2D/1B,2574,0,48,48,venta,departamento
